@@ -119,10 +119,34 @@
       "product_category": "shelf",
       "source": "pinterest",
       "status": "created"
+    },
+    {
+      "query": "apartment office cable management",
+      "date_created": "2026-02-13",
+      "pin_title": "10 Game-Changing Cable Management Hacks for Tiny Apartment Offices That Actually Work",
+      "product_category": "cable management",
+      "source": "pinterest",
+      "status": "created"
+    },
+    {
+      "query": "apartment office desk",
+      "date_created": "2026-02-13",
+      "pin_title": "15 Best Compact Desks for Apartments That Maximize Every Inch of Space",
+      "product_category": "desk",
+      "source": "pinterest",
+      "status": "created"
+    },
+    {
+      "query": "apartment office floating desk",
+      "date_created": "2026-02-13",
+      "pin_title": "7 Genius Floating Desks Perfect for Small Apartments (Zero Floor Space Required!)",
+      "product_category": "desk",
+      "source": "pinterest",
+      "status": "created"
     }
   ],
   "stats": {
-    "total_pins_created": 15,
+    "total_pins_created": 18,
     "queries_used": [
       "home office small space ikea",
       "apartment office amazon finds",
@@ -138,7 +162,10 @@
       "studio apartment desk setup",
       "small apartment office setup",
       "studio apartment office setup",
-      "apartment office bookshelf"
+      "apartment office bookshelf",
+      "apartment office cable management",
+      "apartment office desk",
+      "apartment office floating desk"
     ]
   }
 }
