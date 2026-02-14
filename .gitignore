@@ -1,4 +1,5 @@
 .env
 logs/
 generated_pins/????-??-??.json
+generated_pins/2026-*.json
 pin_tracker.json
