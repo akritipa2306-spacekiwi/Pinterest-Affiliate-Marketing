@@ -26,8 +26,8 @@ LOG="logs/weekly_pins.log"
   # Copy dated file to latest.json
   cp "generated_pins/${TODAY}.json" generated_pins/latest.json
 
-  # Commit and push
-  git add "generated_pins/${TODAY}.json" generated_pins/latest.json pin_tracker.json
+  # Commit and push only latest.json (dated files stay local)
+  git add generated_pins/latest.json
   git commit -m "Weekly pins: ${TODAY}"
   git push origin main
 
