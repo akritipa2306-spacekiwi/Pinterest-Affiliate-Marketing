@@ -1,3 +1,6 @@
+# Pinterest Affiliate Marketing Agent
+
+
 An automated pipeline for finding high-intent Pinterest search queries, generating ready-to-post pin content, and collecting Amazon affiliate product links — all powered by the Claude API.
 
 **Niche:** Home office furniture & accessories for small apartments and condos.
@@ -374,4 +377,3 @@ All discovered queries have been used. Re-run `discovery_agent.py` to collect fr
 
 **Claude API used rule-based fallback**
 The Claude API was unavailable (billing, network, etc.). The rule-based classifier produces good results but is less nuanced. Add credits at [console.anthropic.com](https://console.anthropic.com) to restore AI classification.
-akritiparida@Akritis-MacBook-Air Pinterest-Affiliate-Marketing % 
