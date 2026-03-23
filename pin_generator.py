@@ -29,6 +29,7 @@ import json
 import os
 import random
 import re
+import subprocess
 import sys
 import time
 from datetime import datetime, timezone
@@ -62,7 +63,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DISCOVERY_FILE = os.path.join(BASE_DIR, "search_discovery_results.json")
 TRACKER_FILE = os.path.join(BASE_DIR, "pin_tracker.json")
 PINS_DIR = os.path.join(BASE_DIR, "generated_pins")
-DEFAULT_PIN_COUNT = 3
+DEFAULT_PIN_COUNT = 6
 
 # ════════════════════════════════════════════════════════════════════════════
 # TRACKER — load / save / query
@@ -434,7 +435,7 @@ def cmd_mark_posted(query: str):
             print(f"    - {p['query']} ({p['status']})")
 
 
-def cmd_generate(count: int):
+def cmd_generate(count: int, skip_images: bool = False):
     """Main generation command."""
     # Validate API key
     if not os.environ.get("ANTHROPIC_API_KEY"):
@@ -534,15 +535,40 @@ def cmd_generate(count: int):
     print("=" * 56)
     print_pin_content(pin_contents)
 
+    # Also write latest.json so image_generator and the dashboard can read it
+    latest_path = os.path.join(PINS_DIR, "latest.json")
+    import shutil
+    shutil.copy2(filepath, latest_path)
+    print(f"  Updated:          {latest_path}")
+
     remaining = total_queries - len(tracker["stats"]["queries_used"])
     print(f"\n  {'─' * 58}")
     print(f"  Saved to:         {filepath}")
     print(f"  Tracker updated:  {TRACKER_FILE}")
     print(f"  Queries remaining: {remaining}")
+
+    # Auto-run image generator unless opted out
+    if not skip_images:
+        if not os.environ.get("GOOGLE_API_KEY"):
+            print(f"\n  [skip] GOOGLE_API_KEY not set — skipping image generation.")
+            print(f"         Set it in .env and re-run: python3 image_generator.py")
+        else:
+            print(f"\n  {'─' * 58}")
+            print(f"  [Stage 3] Generating images via Ideogram v2...")
+            print(f"  {'─' * 58}")
+            script = os.path.join(BASE_DIR, "image_generator.py")
+            subprocess.run(
+                [sys.executable, script, "--input", latest_path,
+                 "--count", str(count)],
+                check=False,
+            )
+    else:
+        print(f"\n  [skip] Image generation skipped (--skip-images).")
+        print(f"         Run: python3 image_generator.py  to generate images later.")
+
     print(f"\n  Next steps:")
-    print(f"    1. Create pin images based on the image concepts above")
-    print(f"    2. Post to Pinterest with the title + description")
-    print(f"    3. Run: python3 pin_generator.py --mark-posted \"<query>\"")
+    print(f"    1. Post pins to Pinterest using the title + description above")
+    print(f"    2. Run: python3 pin_generator.py --mark-posted \"<query>\"")
     print()
 
 
@@ -567,6 +593,11 @@ def main():
         help='Mark a query as posted (use "all" to mark all created as posted)'
     )
 
+    parser.add_argument(
+        "--skip-images", action="store_true",
+        help="Skip automatic image generation after pin content is saved",
+    )
+
     args = parser.parse_args()
 
     if args.status:
@@ -574,7 +605,7 @@ def main():
     elif args.mark_posted:
         cmd_mark_posted(args.mark_posted)
     else:
-        cmd_generate(args.count)
+        cmd_generate(args.count, skip_images=args.skip_images)
 
 
 if __name__ == "__main__":

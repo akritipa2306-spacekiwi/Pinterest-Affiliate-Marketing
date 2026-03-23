@@ -1,122 +1,14 @@
 {
-  "generated_at": "2026-02-13T18:54:57.019453+00:00",
-  "date": "2026-02-13",
-  "total_pins": 6,
+  "generated_at": "2026-03-23T21:46:04.860705+00:00",
+  "date": "2026-03-23",
+  "total_pins": 3,
   "pins": [
     {
-      "query": "small apartment office setup",
-      "pin_title": "10 Space-Saving Office Setups That Transform Tiny Apartments (Under $300!)",
-      "pin_description": "Struggling to fit a home office in your small apartment? These genius compact desk solutions and multi-functional furniture pieces maximize every inch without sacrificing style. Perfect for renters who need a productive workspace that actually fits! Tap the link to shop these space-saving finds. #SmallApartmentOffice #TinyHomeOffice #SpaceSavingDesk #ApartmentWorkspace #CompactOfficeSetup #SmallSpaceLiving #HomeOfficeFurniture #ApartmentDesk",
-      "board_name": "Small Apartment Home Office Ideas",
-      "image_concept": "A styled flat lay showing a corner desk setup with floating shelves, a slim laptop stand, and vertical storage solutions in a bright, minimal apartment space.",
-      "source": "google",
-      "intent": "commercial",
-      "affiliate_potential": 5,
-      "priority_score": 17.7,
-      "product_category": "general office furniture",
-      "amazon_products": [
-        {
-          "asin": "B0DF2G3Q2G",
-          "title": "TEMI Small Computer Desk Folding Table - 35.8\" Foldable Office Desk, No Assembly, Perfect for Small Spaces in Bedroom, Dorm, or Apartment, Portable Mini Desk or Study Table with Compact Design, Brown",
-          "price": "CAD 68.07",
-          "review_count": 829,
-          "image_url": "https://m.media-amazon.com/images/I/71Mu1-DbHVL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0DF2G3Q2G/"
-        },
-        {
-          "asin": "B0DWMZTJBV",
-          "title": "Frylr Small Folding Computer Desk – Portable 35.8 Inch Foldable Laptop Table, No-Assembly, Collapsible and Compact for Easy Storage, Lightweight for Small Spaces, Craft and Study Use, Dark Walnut",
-          "price": "CAD 68.08",
-          "review_count": 1288,
-          "image_url": "https://m.media-amazon.com/images/I/6174mFlL4mL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0DWMZTJBV/"
-        },
-        {
-          "asin": "B00OR1KPL2",
-          "title": "Furinno Simplistic A Frame Computer Desk, Black/French Oak Grey",
-          "price": "CAD 29.31",
-          "review_count": 33217,
-          "image_url": "https://m.media-amazon.com/images/I/71mJ-owgDlL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B00OR1KPL2/"
-        },
-        {
-          "asin": "B0DQKSVC1B",
-          "title": "DUMOS 32 Inch Office Small Computer Desk Modern Simple Style Writing Study Work Table for Home Bedroom - Wood Black",
-          "price": "CAD 27.19",
-          "review_count": 2997,
-          "image_url": "https://m.media-amazon.com/images/I/61cQhqxLVQL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0DQKSVC1B/"
-        },
-        {
-          "asin": "B0F43TL3GT",
-          "title": "Huuger Folding Desk for Small Spaces, 31.5 Inch Foldable Computer Table, for Home Office, Study, Bedroom, Dorm, Space Saving, Small Writing Work Office Computer Desk, Easy to Fold, Rustic Brown",
-          "price": "CAD 76.28",
-          "review_count": 379,
-          "image_url": "https://m.media-amazon.com/images/I/815LJYab8mL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0F43TL3GT/"
-        }
-      ]
-    },
-    {
-      "query": "studio apartment office setup",
-      "pin_title": "Studio Apartment Office Ideas: 12 Genius Ways to Create a Workspace in 400 Sq Ft",
-      "pin_description": "Living in a studio doesn't mean sacrificing productivity! These clever dual-purpose office solutions let you create a dedicated workspace that disappears when you need your living room back. From murphy desks to room dividers with built-in storage. Find these game-changing pieces at the link! #StudioApartmentOffice #StudioApartmentIdeas #MultiPurposeFurniture #MurphyDesk #SmallSpaceOffice #TinyApartment #FoldingDesk #StudioLiving",
-      "board_name": "Studio Apartment Workspace Solutions",
-      "image_concept": "A before and after split image showing a studio apartment corner transformed with a wall-mounted fold-down desk and floating shelves that blend seamlessly into the living space.",
-      "source": "google",
-      "intent": "commercial",
-      "affiliate_potential": 5,
-      "priority_score": 17.7,
-      "product_category": "general office furniture",
-      "amazon_products": [
-        {
-          "asin": "B0FKSK5YD5",
-          "title": "Furologee L Shaped Computer Desk with Power Outlet, Reversible Home Office Desk for Work Study, 50 Inch Corner Gaming Table with File Drawer, Monitor Stand, Storage Shelves, Rustic Brown",
-          "price": "CAD 121.25",
-          "review_count": 1667,
-          "image_url": "https://m.media-amazon.com/images/I/812Y4zBquOL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0FKSK5YD5/"
-        },
-        {
-          "asin": "B0BSGZ39NR",
-          "title": "SHW Mission 32-Inch Home Office Computer Desk, Rustic Brown",
-          "price": "CAD 68.08",
-          "review_count": 28899,
-          "image_url": "https://m.media-amazon.com/images/I/81gyHBztHRL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0BSGZ39NR/"
-        },
-        {
-          "asin": "B0CXPN9GGL",
-          "title": "AODK Computer Desk, 48 Inch Gaming Desk with Led Lights & Power Outlet, Office Desk with Storage Shelves, Reversible Desk with Monitor Shelf & Headphone Hook, Rustic Brown",
-          "price": "CAD 108.98",
-          "review_count": 729,
-          "image_url": "https://m.media-amazon.com/images/I/81j82ZEis1L._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0CXPN9GGL/"
-        },
-        {
-          "asin": "B0FKS6K67Z",
-          "title": "Furologee L Shaped Computer Desk with Power Outlet, Reversible Home Office Desk for Work Study, 50 Inch Corner Gaming Table with File Drawer, Monitor Stand, Storage Shelves, Black",
-          "price": "CAD 122.61",
-          "review_count": 1667,
-          "image_url": "https://m.media-amazon.com/images/I/815x8tEh8+L._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0FKS6K67Z/"
-        },
-        {
-          "asin": "B07FKWT7HS",
-          "title": "Furinno Econ Multipurpose Home Office Computer Writing Desk, White/Black",
-          "price": "CAD 88.55",
-          "review_count": 41458,
-          "image_url": "https://m.media-amazon.com/images/I/71iXfWMvYDL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B07FKWT7HS/"
-        }
-      ]
-    },
-    {
-      "query": "apartment office bookshelf",
-      "pin_title": "15 Best Bookshelf Desks for Apartments (Storage + Workspace in One!)",
-      "pin_description": "Need office storage but short on space? These brilliant bookshelf-desk combos give you a full workspace plus tons of vertical storage in just 2-3 feet of floor space. No assembly nightmares, renter-friendly, and under $250. Perfect for small apartments and condos! Tap to shop these space-maximizing favorites. #ApartmentBookshelf #BookshelfDesk #SmallOfficeStorage #ApartmentDesk #VerticalStorage #CompactBookshelf #HomeOfficeShelf #SpaceSavingFurniture",
+      "query": "apartment office floating shelves",
+      "pin_title": "15 Genius Floating Shelves That Transform Tiny Apartment Offices (Under $100!)",
+      "pin_description": "Struggling with zero floor space in your apartment office? These floating shelves add storage WITHOUT stealing precious square footage. Perfect for renters—easy install, no damage! From minimalist wood to modern industrial styles. Tap the link to shop these space-saving heroes. #apartmentoffice #floatingshelves #smallspaceoffice #apartmentdecor #homeofficeideas #rentertips #spacesaving #deskorganization",
       "board_name": "Small Space Home Office Ideas",
-      "image_concept": "A product collage showing 3-4 different ladder-style bookshelf desks and wall-mounted shelf-desk combinations, each styled with books, plants, and office supplies in modern apartment settings.",
+      "image_concept": "Vertical collage showing 3-4 different floating shelf styles installed above compact desks in small apartments, with plants and office supplies neatly organized",
       "source": "pinterest",
       "intent": "commercial",
       "affiliate_potential": 5,
@@ -124,107 +16,53 @@
       "product_category": "shelf",
       "amazon_products": [
         {
-          "asin": "B0F2HLNDKT",
-          "title": "HOMBAZAAR Bookshelf,Small Industrial Bookshelf with Engineered Wood Shelves,3 Tier Shelf Bookcase with Metal Frame,Short Book Shelf for Living Room,Small Space and Office,Rustic Brown",
-          "price": "CAD 122.61",
-          "review_count": 53,
-          "image_url": "https://m.media-amazon.com/images/I/812NDSU8WmL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0F2HLNDKT/"
+          "asin": "B0F8N6JJ7H",
+          "title": "Heimlove White Deep Floating Shelves for Wall, 36W x 8D Wood Wall Shelves Set of 2, Wide Floating Bookshelf for Living Room, Kitchen, Office, Bedroom and Decor Storage, with Black Bracket - White",
+          "price": "CAD 67.12",
+          "review_count": 70,
+          "image_url": "https://m.media-amazon.com/images/I/71SxmYHENmL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0F8N6JJ7H/"
         },
         {
-          "asin": "B0BXXG3HVR",
-          "title": "Gadroad 5 Tier Geometric Bookcase,S Shaped Bookshelf, Wood Decorative Storage Shelving, Modern Freestanding Display Shelves, Tall Book Shelf Unit for Living Room Bedroom, White",
-          "price": "CAD 98.08",
-          "review_count": 1238,
-          "image_url": "https://m.media-amazon.com/images/I/61zPwkydUkL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0BXXG3HVR/"
+          "asin": "B0F18R8JJP",
+          "title": "Vivelove 12\" Deep Floating Shelves for Wall 36 Inches Long, 2 in Thick Wall Shelves, Shelf for Bedroom, Bathroom, Living Room, Kitchen, Office, Modern Home Decor, 36\" X 12\" X 2\", Set of 2, Black",
+          "price": "CAD 116.45",
+          "review_count": 233,
+          "image_url": "https://m.media-amazon.com/images/I/81dWXQKWL-L._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0F18R8JJP/"
         },
         {
-          "asin": "B0DQBZLT5J",
-          "title": "Triple Bookshelf with 3 Fabric Drawers, 4-Tier Book Shelf and 10 Display Shelves, Industrial Large Bookcase for Home & Office, Rustic Brown, 47'' Wide",
-          "price": "CAD 122.58",
-          "review_count": 331,
-          "image_url": "https://m.media-amazon.com/images/I/81vo-RFqXwL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0DQBZLT5J/"
+          "asin": "B0FSL2VF7G",
+          "title": "Deep Floating Shelves,16\"Wx10\"D Floating Shelves for Wall Set of 2,Heavy Duty Wood Floating Shelf with Metal Bracket,Wall Mounted Hanging Shelf for Living Room Bedroom Bathroom Kitchen,Rustic Brown",
+          "price": "CAD 34.51",
+          "review_count": 28,
+          "image_url": "https://m.media-amazon.com/images/I/81FgJX7I3tL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0FSL2VF7G/"
         },
         {
-          "asin": "B0BRPKSG14",
-          "title": "5-Tier Wooden Open Bookcase - Modern Display Bookshelf with Top Edge and Solid Wood Frame for Home and Office, Storage Cabinet, Warm White",
-          "price": "CAD 176.98",
-          "review_count": 411,
-          "image_url": "https://m.media-amazon.com/images/I/71mtGiXi3EL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0BRPKSG14/"
+          "asin": "B08VFKKV1D",
+          "title": "HIGH & MIGHTY 515662 Decorative 24\" Floating Shelf Holds up to 20lbs, Easy Tool-Free Dry Wall Installation, Beveled, eCommerce Packaging, Espresso",
+          "price": "CAD 66.32",
+          "review_count": 158,
+          "image_url": "https://m.media-amazon.com/images/I/61w0uvugCyL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B08VFKKV1D/"
         },
         {
-          "asin": "B0CGQSY3W5",
-          "title": "NUMENN Bookshelf, 5 Tier Bookshelves, Home Office Bookcase Shelf Storage Organizer, Free Standing Storage Shelving Unit for Bedroom, Living Room and Home Office, Vintage",
-          "price": "CAD 69.47",
-          "review_count": 1673,
-          "image_url": "https://m.media-amazon.com/images/I/61Rzke6uqBL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0CGQSY3W5/"
+          "asin": "B0D128H4KJ",
+          "title": "upsimples Floating Shelves for Wall, Wall Shelves for Decor Storage Set of 6, Wall Mounted Wood Shelf for Bedroom, Living Room, Bathroom, Kitchen, Picture Ledge Shelf, Brown",
+          "price": "CAD 35.61",
+          "review_count": 3865,
+          "image_url": "https://m.media-amazon.com/images/I/81BU30IdovL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0D128H4KJ/"
         }
       ]
     },
     {
-      "query": "apartment office cable management",
-      "pin_title": "10 Game-Changing Cable Management Hacks for Tiny Apartment Offices That Actually Work",
-      "pin_description": "Tired of tangled cords ruining your small space aesthetic? These genius cable organizers hide messy wires, free up desk space, and make your apartment office look professionally styled. From under-desk trays to magnetic clips, find solutions that work in tight spaces. Tap the link to shop these must-have cable management tools! #apartmentoffice #cablemanagement #smallspaceoffice #deskorganization #apartmentliving #homeofficeideas #cablehacks #minimalistdesk",
-      "board_name": "Small Space Home Office Ideas",
-      "image_concept": "Before/after split image showing a cluttered desk with tangled cables versus a clean setup with organized cable management solutions visible",
-      "source": "pinterest",
-      "intent": "commercial",
-      "affiliate_potential": 5,
-      "priority_score": 17.7,
-      "product_category": "cable management",
-      "amazon_products": [
-        {
-          "asin": "B07Q8QN5CB",
-          "title": "YECAYE 94.2in Cable Management, Cable Organizer,Adhesive Mount Cord Organizer for Desk, Cord Organizer, No-Drill Desk Wire Management for Home Office, Baby proofing, Black",
-          "price": "CAD 23.15",
-          "review_count": 8532,
-          "image_url": "https://m.media-amazon.com/images/I/81ktD3ANANL._AC_UY218_.jpg",
-          "product_link": "https://www.amazon.com/dp/B07Q8QN5CB/"
-        },
-        {
-          "asin": "B0BPLRX32S",
-          "title": "Under Desk Cable Management Tray White, Cinati Wire Organizers No Drill, Cable Tray with Clamp for Wire Management, Cord Organization Box for Office, Home - No Damage to Desk",
-          "price": "CAD 19.67",
-          "review_count": 3681,
-          "image_url": "https://m.media-amazon.com/images/I/81vGseJ4e6L._AC_UY218_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0BPLRX32S/"
-        },
-        {
-          "asin": "B0BZ3GHM8N",
-          "title": "Under Desk Cable Management Tray No Drill, Metal Mesh Cable Management Under Desk with Clamp Mount, 2 Hole Cable Tray with Wire Management and Cord Organizer for Home Office Standing Desk",
-          "price": "CAD 19.06",
-          "review_count": 2725,
-          "image_url": "https://m.media-amazon.com/images/I/71EZI1CHQqL._AC_UY218_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0BZ3GHM8N/"
-        },
-        {
-          "asin": "B08N1HX647",
-          "title": "PAMO Cable Management Under Desk for Easy mounting Under-Table I Set of 2 - with 10X Cable Ties I Desk Organizer for Office/Home Office Table Thoughtful Cable Tray Holder",
-          "price": "CAD 51.76",
-          "review_count": 2574,
-          "image_url": "https://m.media-amazon.com/images/I/714Nn5lEIwL._AC_UY218_.jpg",
-          "product_link": "https://www.amazon.com/dp/B08N1HX647/"
-        },
-        {
-          "asin": "B0DK13ZHNJ",
-          "title": "Univivi No Drill Under Desk Cable Management Tray, 36\" Cord Organizer for Table, Clamp/Screw Mount Desk Cable Management, Premium Fabric Cable Management Tray for Office, Home",
-          "price": "CAD 51.76",
-          "review_count": 429,
-          "image_url": "https://m.media-amazon.com/images/I/71qFHhKvtFL._AC_UY218_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0DK13ZHNJ/"
-        }
-      ]
-    },
-    {
-      "query": "apartment office desk",
-      "pin_title": "15 Best Compact Desks for Apartments That Maximize Every Inch of Space",
-      "pin_description": "Struggling to fit a functional workspace in your tiny apartment? These space-saving desks are designed specifically for small homes—think wall-mounted, corner, and Murphy-style options that don't sacrifice style or storage. Perfect for studio apartments and tight corners! Find these compact desk solutions at the link in bio. #apartmentdesk #smallspacedesk #compactdesk #apartmentoffice #tinyapartment #spacesavingdesk #homeofficeideas #studioapartment",
+      "query": "apartment office fold down desk",
+      "pin_title": "10 Best Fold-Down Desks for Apartments That Disappear When You Need Space",
+      "pin_description": "Your apartment is too small for a full desk? These wall-mounted fold-down desks are GAME-CHANGERS. Work comfortably, then fold it up and reclaim your living room. Sturdy enough for laptops + monitors, stylish enough for any decor. Find your perfect match at the link! #folddowndesk #apartmentoffice #spacesavingdesk #smallapartment #wallmounteddesk #tinyhomeoffice #multifunctionalfurniture #renterfriendly",
       "board_name": "Apartment Desk Setup",
-      "image_concept": "Collage of 4-6 different compact desk styles in real apartment settings, showing various sizes and configurations for small spaces",
+      "image_concept": "Before/after split image showing a fold-down desk both open with laptop setup and closed flush against the wall in a small apartment living space",
       "source": "pinterest",
       "intent": "commercial",
       "affiliate_potential": 5,
@@ -232,98 +70,98 @@
       "product_category": "desk",
       "amazon_products": [
         {
-          "asin": "B0F9X3FDYY",
-          "title": "HUANUO 32\" Small Electric Standing Desk Adjustable Height, 4 Memory Height Settings, Sit Stand Up Desk for Home Office & Computer Workstation, LightWalnut",
-          "price": "CAD 108.98",
-          "review_count": 1553,
-          "image_url": "https://m.media-amazon.com/images/I/61U0DUlJOuL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0F9X3FDYY/"
+          "asin": "B0D29B51DD",
+          "title": "Folding Desk - 31.5\" Wood Top Foldable Desk for Small Spaces | No Assembly Required Compact Desk for Home Office, Writing, and Study",
+          "price": "CAD 95.90",
+          "review_count": 946,
+          "image_url": "https://m.media-amazon.com/images/I/71VcXKnLrvL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0D29B51DD/"
+        },
+        {
+          "asin": "B0FB3XLMYZ",
+          "title": "Folding Desk, 31.5\" Small Desk for Bedroom with Power Outlet, Space Saving Foldable Computer Desk for Home Office, Easy Assembly, White and Gold",
+          "price": "CAD 109.60",
+          "review_count": 14,
+          "image_url": "https://m.media-amazon.com/images/I/61f4k2ahhSL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0FB3XLMYZ/"
+        },
+        {
+          "asin": "B0DF2G3Q2G",
+          "title": "TEMI Small Computer Desk Folding Table - 35.8\" Foldable Office Desk, No Assembly, Perfect for Small Spaces in Bedroom, Dorm, or Apartment, Portable Mini Desk or Study Table with Compact Design, Brown",
+          "price": "CAD 68.45",
+          "review_count": 773,
+          "image_url": "https://m.media-amazon.com/images/I/71Mu1-DbHVL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0DF2G3Q2G/"
+        },
+        {
+          "asin": "B0DFCF98K9",
+          "title": "31.5\" Modern White Folding Computer Desk with Power Outlets, Wheels, Storage, Perfect for Small Spaces White TDN01UWB",
+          "price": "CAD 95.90",
+          "review_count": 77,
+          "image_url": "https://m.media-amazon.com/images/I/716ZFlOCb8L._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0DFCF98K9/"
+        },
+        {
+          "asin": "B0F43TL3GT",
+          "title": "Huuger Folding Desk for Small Spaces, 31.5 Inch Foldable Computer Table, for Home Office, Study, Bedroom, Dorm, Space Saving, Small Writing Work Office Computer Desk, Easy to Fold, Rustic Brown",
+          "price": "CAD 76.72",
+          "review_count": 471,
+          "image_url": "https://m.media-amazon.com/images/I/815LJYab8mL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0F43TL3GT/"
+        }
+      ]
+    },
+    {
+      "query": "apartment office affordable",
+      "pin_title": "Complete Apartment Office Under $300: Affordable Setup That Doesn't Look Cheap",
+      "pin_description": "You don't need to spend a fortune for a functional home office! This curated list proves you can create a stylish, productive workspace in your apartment for under $300. Desk, chair, storage, lighting—all budget-friendly picks that maximize small spaces. Tap to shop the full affordable setup! #affordablehomeoffice #budgetfriendly #apartmentoffice #cheapdesksetup #homeofficeonabudget #smallspaceoffice #budgetdecor #workfromhome",
+      "board_name": "Budget Home Office Ideas",
+      "image_concept": "Styled flat lay or grid showing complete affordable office setup including compact desk, ergonomic chair, desk lamp, and organizers with price tags visible",
+      "source": "pinterest",
+      "intent": "commercial",
+      "affiliate_potential": 4,
+      "priority_score": 16.95,
+      "product_category": "general office furniture",
+      "amazon_products": [
+        {
+          "asin": "B0D9YKTJ8K",
+          "title": "Lufeiya White L Shaped Computer Desk with Fabric Drawers, 55 Inch Corner Home Office Desk with Monitor Stand Shelves, Writing Study Gaming Desks with Led Lights and Power Outlets for Bedroom, White",
+          "price": "CAD 137.00",
+          "review_count": 916,
+          "image_url": "https://m.media-amazon.com/images/I/61Wh4yc5i3L._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0D9YKTJ8K/"
+        },
+        {
+          "asin": "B0DQKSVC1B",
+          "title": "DUMOS 32 Inch Office Small Computer Desk Modern Simple Style Writing Study Work Table for Home Bedroom - Wood Black",
+          "price": "CAD 27.35",
+          "review_count": 3539,
+          "image_url": "https://m.media-amazon.com/images/I/61cQhqxLVQL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0DQKSVC1B/"
+        },
+        {
+          "asin": "B08Z36X6B4",
+          "title": "SUNMORY Floor Lamp with Shelves, Modern Square Standing Lamp with 3 Color Temperature Bulb, Corner Display Bookshelf Lamp for Living Room and Bedroom(Black)",
+          "price": "CAD 43.82",
+          "review_count": 6988,
+          "image_url": "https://m.media-amazon.com/images/I/71YNhyHG-IL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B08Z36X6B4/"
         },
         {
           "asin": "B0DSPGMJKN",
           "title": "Pamray 32 Inch Small Computer Desk with 2 Drawers for Bedroom Study Writing Home Office Table for Small Spaces Black",
-          "price": "CAD 62.66",
-          "review_count": 594,
+          "price": "CAD 63.01",
+          "review_count": 760,
           "image_url": "https://m.media-amazon.com/images/I/71AQdfFKqyL._AC_UL320_.jpg",
           "product_link": "https://www.amazon.com/dp/B0DSPGMJKN/"
         },
         {
-          "asin": "B0F43WDGQV",
-          "title": "Huuger Folding Desk with Storage Shelf, 31.5 Inch Foldable Computer Table for Small Spaces, Space Saving Sofa Table for Couch, Writing Work Office Computer Desk, Easy to Fold, Rustic Brown",
-          "price": "CAD 81.73",
-          "review_count": 269,
-          "image_url": "https://m.media-amazon.com/images/I/81VOuyxw6rL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0F43WDGQV/"
-        },
-        {
-          "asin": "B0CHRL9NQR",
-          "title": "TIQLAB Small L Shaped Desk with Power Outlets - 40 inch Gaming Corner Computer Desk Writing Table, Reversible Large Storage Shelves, Bookshelf Workstation for Study Play Work Home Office, Black",
-          "price": "CAD 98.08",
-          "review_count": 1456,
-          "image_url": "https://m.media-amazon.com/images/I/81ROSIBnvEL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0CHRL9NQR/"
-        },
-        {
-          "asin": "B0DY7TN5DS",
-          "title": "Casaottima L Shaped Desk with Drawers & File Cabinet, Reversible Computer Desk with Storage Shelves & CPU Stand, Corner Desk with Power Outlets, L Desk for Home Office, Rustic Brown",
-          "price": "CAD 116.48",
-          "review_count": 268,
-          "image_url": "https://m.media-amazon.com/images/I/71uRdbPM7XL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0DY7TN5DS/"
-        }
-      ]
-    },
-    {
-      "query": "apartment office floating desk",
-      "pin_title": "7 Genius Floating Desks Perfect for Small Apartments (Zero Floor Space Required!)",
-      "pin_description": "No room for a traditional desk? Floating wall-mounted desks are the ultimate space-saver for cramped apartments! These sleek designs fold up when not in use, create storage underneath, and make tiny rooms feel bigger. Ideal for studio apartments or corner nooks. Tap the link to shop these floating desk favorites! #floatingdesk #wallmounteddesk #apartmentoffice #smallspaceoffice #spacesavingfurniture #tinyapartment #apartmentliving #foldabledesk",
-      "board_name": "Small Space Home Office Ideas",
-      "image_concept": "Styled shot of a modern floating desk mounted on a wall with a laptop and minimal decor, showing the open floor space beneath",
-      "source": "pinterest",
-      "intent": "commercial",
-      "affiliate_potential": 5,
-      "priority_score": 17.7,
-      "product_category": "desk",
-      "amazon_products": [
-        {
-          "asin": "B0DJCTCC7L",
-          "title": "SKEENA Wall-Mounted Desk - Floating Folding Desk with Storage, Space-Saving Design for Home Office (31\")",
-          "price": "See Amazon",
-          "review_count": 54,
-          "image_url": "https://m.media-amazon.com/images/I/71v-YrsuWtL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0DJCTCC7L/"
-        },
-        {
-          "asin": "B0F2LWXSLM",
-          "title": "ARTETHYS Wall Mounted Desk with LED Light Farmhouse Multifunctional Fold Down Laptop Computer Table Writing Workstation with Storage Compartments Space Saving for Home Office, Gray",
-          "price": "CAD 136.23",
-          "review_count": 198,
-          "image_url": "https://m.media-amazon.com/images/I/71OkBHrzCdL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0F2LWXSLM/"
-        },
-        {
-          "asin": "B0DJCTDRR9",
-          "title": "SKEENA Wall-Mounted Desk - Floating Folding Desk with Storage, Space-Saving Design for Home Office (36\")",
-          "price": "See Amazon",
-          "review_count": 54,
-          "image_url": "https://m.media-amazon.com/images/I/71XMY+1wGvL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0DJCTDRR9/"
-        },
-        {
-          "asin": "B0FF4P76HB",
-          "title": "Wall Mounted Drop-Leaf Table, Floating Laptop Desk, Folding Table with Shelves, Multifunctional Computer Workstation with Storage Compartments in Home Office for Space Saving (White)",
-          "price": "CAD 272.48",
-          "review_count": 5,
-          "image_url": "https://m.media-amazon.com/images/I/51-ivMViVyL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0FF4P76HB/"
-        },
-        {
-          "asin": "B0BY7TW91V",
-          "title": "ALIMORDEN Floating Shelf with Drawer, Wall Mounted Desk, 31 inch Surface, White",
-          "price": "CAD 163.48",
-          "review_count": 88,
-          "image_url": "https://m.media-amazon.com/images/I/51p31YgfasL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0BY7TW91V/"
+          "asin": "B0F9X3FDYY",
+          "title": "HUANUO 32\" Small Electric Standing Desk Adjustable Height, 4 Memory Height Settings, Sit Stand Up Desk for Home Office & Computer Workstation, LightWalnut",
+          "price": "CAD 109.59",
+          "review_count": 1737,
+          "image_url": "https://m.media-amazon.com/images/I/61U0DUlJOuL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0F9X3FDYY/"
         }
       ]
     }
