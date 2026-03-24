@@ -132,7 +132,8 @@ PROMPT_SUFFIX = (
     "cinematic lighting, high detail, sharp focus, "
     "no collage grids, no multi-panel photo grids, no decorative grid overlays, "
     "no text overlays, no watermarks, no logos, no price tags, "
-    "no labels, no annotations, no callouts, no captions"
+    "no labels, no annotations, no callouts, no captions, "
+    "no text on screens or monitors, blank or off screens only"
 )
 
 
@@ -244,14 +245,18 @@ def build_prompt(image_concept, style, has_product_image=False):
     if has_product_image:
         base = (
             "Study the reference product image to understand the item's type, "
-            "shape, color, and design. Then create a completely original, "
-            "photorealistic Pinterest lifestyle home office scene — do NOT copy "
-            "or composite the product photo, instead depict a similar item "
-            "rendered naturally as if photographed in a real apartment. "
-            "The product is the hero of the scene; complement it with a few "
-            "tasteful accessories (lamp, plant, books, coffee cup) that suit "
-            "the setting. The overall mood and aesthetic should feel cohesive "
-            "and aspirational."
+            "shape, color, and design — then CREATE A COMPLETELY ORIGINAL scene. "
+            "Do NOT copy, trace, or composite the reference photo. "
+            "Render a full, fully-furnished small apartment home office: "
+            "the referenced product is the clear hero, but the scene MUST also "
+            "include a complete room context — if the hero is shelves, show them "
+            "mounted above a styled desk with a chair, laptop, and lamp below; "
+            "if the hero is a desk, show it with a chair pulled in, monitor or "
+            "laptop, a lamp, and a plant nearby. The space should feel like a "
+            "real styled apartment interior, photographed with natural light, "
+            "with personal touches (books, a mug, small decor) that make it "
+            "aspirational and Pinterest-worthy. Every image must look like a "
+            "complete room, never a product shot on a plain background."
         )
     else:
         base = sanitize_image_concept(image_concept)
