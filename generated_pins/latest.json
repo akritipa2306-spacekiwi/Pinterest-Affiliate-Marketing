@@ -16,20 +16,20 @@
       "product_category": "shelf",
       "amazon_products": [
         {
-          "asin": "B0F8N6JJ7H",
-          "title": "Heimlove White Deep Floating Shelves for Wall, 36W x 8D Wood Wall Shelves Set of 2, Wide Floating Bookshelf for Living Room, Kitchen, Office, Bedroom and Decor Storage, with Black Bracket - White",
-          "price": "CAD 67.12",
-          "review_count": 70,
-          "image_url": "https://m.media-amazon.com/images/I/71SxmYHENmL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0F8N6JJ7H/"
-        },
-        {
           "asin": "B0F18R8JJP",
           "title": "Vivelove 12\" Deep Floating Shelves for Wall 36 Inches Long, 2 in Thick Wall Shelves, Shelf for Bedroom, Bathroom, Living Room, Kitchen, Office, Modern Home Decor, 36\" X 12\" X 2\", Set of 2, Black",
           "price": "CAD 116.45",
           "review_count": 233,
           "image_url": "https://m.media-amazon.com/images/I/81dWXQKWL-L._AC_UL320_.jpg",
           "product_link": "https://www.amazon.com/dp/B0F18R8JJP/"
+        },
+        {
+          "asin": "B0F8N6JJ7H",
+          "title": "Heimlove White Deep Floating Shelves for Wall, 36W x 8D Wood Wall Shelves Set of 2, Wide Floating Bookshelf for Living Room, Kitchen, Office, Bedroom and Decor Storage, with Black Bracket - White",
+          "price": "CAD 67.12",
+          "review_count": 70,
+          "image_url": "https://m.media-amazon.com/images/I/71SxmYHENmL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0F8N6JJ7H/"
         },
         {
           "asin": "B0FSL2VF7G",

@@ -385,13 +385,29 @@ def generate_images(count=None, input_file=None):
     output["pins"]                = merged
     output["images_generated_at"] = datetime.now(timezone.utc).isoformat()
 
+    # Write latest_with_images.json (has image URLs + reordered products)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
+
+    # Also write back to latest.json so Lovable sees the reordered products.
+    # Strip the image fields so latest.json stays lean and consistent.
+    latest_path = os.path.join(PINS_DIR, "latest.json")
+    latest_data = dict(data)
+    latest_pins = []
+    for pin in merged:
+        p = dict(pin)
+        p.pop("generated_image", None)
+        p.pop("image_style", None)
+        latest_pins.append(p)
+    latest_data["pins"] = latest_pins
+    with open(latest_path, "w", encoding="utf-8") as f:
+        json.dump(latest_data, f, indent=2, ensure_ascii=False)
 
     success = sum(1 for p in updated if p.get("generated_image"))
     print(f"\n  {'─' * 54}")
     print(f"  ✓ {success}/{total} images generated successfully")
     print(f"  Saved to:  {OUTPUT_FILE}")
+    print(f"  Updated:   {latest_path} (reordered products)")
     print(f"  Images in: {IMAGES_DIR}")
     print()
 
