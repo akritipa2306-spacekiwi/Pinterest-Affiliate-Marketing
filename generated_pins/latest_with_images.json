@@ -16,20 +16,20 @@
       "product_category": "shelf",
       "amazon_products": [
         {
-          "asin": "B0F8N6JJ7H",
-          "title": "Heimlove White Deep Floating Shelves for Wall, 36W x 8D Wood Wall Shelves Set of 2, Wide Floating Bookshelf for Living Room, Kitchen, Office, Bedroom and Decor Storage, with Black Bracket - White",
-          "price": "CAD 67.12",
-          "review_count": 70,
-          "image_url": "https://m.media-amazon.com/images/I/71SxmYHENmL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0F8N6JJ7H/"
-        },
-        {
           "asin": "B0F18R8JJP",
           "title": "Vivelove 12\" Deep Floating Shelves for Wall 36 Inches Long, 2 in Thick Wall Shelves, Shelf for Bedroom, Bathroom, Living Room, Kitchen, Office, Modern Home Decor, 36\" X 12\" X 2\", Set of 2, Black",
           "price": "CAD 116.45",
           "review_count": 233,
           "image_url": "https://m.media-amazon.com/images/I/81dWXQKWL-L._AC_UL320_.jpg",
           "product_link": "https://www.amazon.com/dp/B0F18R8JJP/"
+        },
+        {
+          "asin": "B0F8N6JJ7H",
+          "title": "Heimlove White Deep Floating Shelves for Wall, 36W x 8D Wood Wall Shelves Set of 2, Wide Floating Bookshelf for Living Room, Kitchen, Office, Bedroom and Decor Storage, with Black Bracket - White",
+          "price": "CAD 67.12",
+          "review_count": 70,
+          "image_url": "https://m.media-amazon.com/images/I/71SxmYHENmL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0F8N6JJ7H/"
         },
         {
           "asin": "B0FSL2VF7G",
@@ -56,8 +56,8 @@
           "product_link": "https://www.amazon.com/dp/B0D128H4KJ/"
         }
       ],
-      "generated_image": "https://raw.githubusercontent.com/akritipa2306-spacekiwi/Pinterest-Affiliate-Marketing/main/generated_pins/images/2026-03-24_pin_1_dark-academia.png",
-      "image_style": "dark academia"
+      "generated_image": "https://raw.githubusercontent.com/akritipa2306-spacekiwi/Pinterest-Affiliate-Marketing/main/generated_pins/images/2026-03-24_pin_1_japandi.png",
+      "image_style": "japandi"
     },
     {
       "query": "apartment office fold down desk",
@@ -112,8 +112,8 @@
           "product_link": "https://www.amazon.com/dp/B0F43TL3GT/"
         }
       ],
-      "generated_image": "https://raw.githubusercontent.com/akritipa2306-spacekiwi/Pinterest-Affiliate-Marketing/main/generated_pins/images/2026-03-24_pin_2_minimalist.png",
-      "image_style": "modern sleek minimalist interior"
+      "generated_image": "https://raw.githubusercontent.com/akritipa2306-spacekiwi/Pinterest-Affiliate-Marketing/main/generated_pins/images/2026-03-24_pin_2_boho.png",
+      "image_style": "boho eclectic"
     },
     {
       "query": "apartment office affordable",
@@ -168,9 +168,9 @@
           "product_link": "https://www.amazon.com/dp/B0F9X3FDYY/"
         }
       ],
-      "generated_image": "https://raw.githubusercontent.com/akritipa2306-spacekiwi/Pinterest-Affiliate-Marketing/main/generated_pins/images/2026-03-24_pin_3_industrial.png",
-      "image_style": "industrial loft"
+      "generated_image": "https://raw.githubusercontent.com/akritipa2306-spacekiwi/Pinterest-Affiliate-Marketing/main/generated_pins/images/2026-03-24_pin_3_cottagecore.png",
+      "image_style": "maximalist cottagecore"
     }
   ],
-  "images_generated_at": "2026-03-24T00:01:42.205693+00:00"
+  "images_generated_at": "2026-03-24T00:15:20.987086+00:00"
 }

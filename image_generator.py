@@ -242,6 +242,61 @@ def generate_image_gemini(client, prompt):
 
 
 # ════════════════════════════════════════════════════════════════════════════
+# PRODUCT RANKING — reorder Amazon products to best match the generated image
+# ════════════════════════════════════════════════════════════════════════════
+
+VISION_MODEL = "gemini-2.5-flash"   # vision model, separate from image gen
+
+
+def rank_products_by_image(client, image_bytes, products):
+    """
+    Ask Gemini vision to identify which Amazon product best matches the
+    main furniture/product shown in the generated lifestyle image, then
+    return the product list reordered with the best match first.
+    Falls back to original order on any error.
+    """
+    if not products or len(products) < 2:
+        return products
+
+    product_lines = "\n".join(
+        f"{i + 1}. {p['title'][:120]}"
+        for i, p in enumerate(products)
+    )
+
+    prompt = (
+        "Look at this interior lifestyle image carefully.\n"
+        "Which of the following Amazon products best matches the main "
+        "furniture or product featured in the scene? "
+        "Consider the style, shape, colour, and type of the item.\n\n"
+        f"Products:\n{product_lines}\n\n"
+        f"Reply with only the number (1–{len(products)}) of the best match."
+    )
+
+    try:
+        response = client.models.generate_content(
+            model=VISION_MODEL,
+            contents=[
+                types.Part(inline_data=types.Blob(
+                    mime_type="image/png", data=image_bytes
+                )),
+                types.Part(text=prompt),
+            ],
+        )
+        match = re.search(r"\b(\d+)\b", response.text.strip())
+        if match:
+            best = int(match.group(1)) - 1
+            if 0 <= best < len(products):
+                reordered = [products[best]] + [
+                    p for j, p in enumerate(products) if j != best
+                ]
+                return reordered
+    except Exception as exc:
+        print(f"\n    [warn] product ranking failed: {exc}", end="")
+
+    return products  # keep original order on failure
+
+
+# ════════════════════════════════════════════════════════════════════════════
 # MAIN GENERATION LOGIC
 # ════════════════════════════════════════════════════════════════════════════
 
@@ -306,7 +361,16 @@ def generate_images(count=None, input_file=None):
                 f.write(image_bytes)
             pin["generated_image"] = github_url   # URL Lovable can load
             pin["image_style"]     = style["name"]
-            print("✓ image saved")
+
+            # Reorder products so the best visual match comes first
+            products = pin.get("amazon_products", [])
+            if products:
+                pin["amazon_products"] = rank_products_by_image(
+                    client, image_bytes, products
+                )
+                print("✓ image saved + products ranked")
+            else:
+                print("✓ image saved")
         except Exception as exc:
             print(f"✗ error: {exc}")
             pin["generated_image"] = None
