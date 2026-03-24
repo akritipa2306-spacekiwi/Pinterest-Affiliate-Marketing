@@ -50,6 +50,12 @@ IMAGES_DIR    = os.path.join(PINS_DIR, "images")
 DEFAULT_INPUT = os.path.join(PINS_DIR, "latest.json")
 OUTPUT_FILE   = os.path.join(PINS_DIR, "latest_with_images.json")
 
+# GitHub raw URL base — images are committed to the repo so Lovable can load them
+GITHUB_RAW_BASE = (
+    "https://raw.githubusercontent.com/"
+    "akritipa2306-spacekiwi/Pinterest-Affiliate-Marketing/main"
+)
+
 GEMINI_MODEL  = "gemini-2.5-flash-image"
 
 # Visual styles: each pin gets one, shuffled, no consecutive repeats.
@@ -287,9 +293,9 @@ def generate_images(count=None, input_file=None):
         image_concept = pin.get("image_concept", "styled home office product photo")
         prompt   = build_prompt(image_concept, style)
         slug     = style["slug"]
-        filename = f"{today}_pin_{i}_{slug}.png"
-        filepath = os.path.join(IMAGES_DIR, filename)
-        rel_path = os.path.join("generated_pins", "images", filename)
+        filename   = f"{today}_pin_{i}_{slug}.png"
+        filepath   = os.path.join(IMAGES_DIR, filename)
+        github_url = f"{GITHUB_RAW_BASE}/generated_pins/images/{filename}"
 
         print(f"  Pin {i}/{total} — style: {style['name']}", end=" — ", flush=True)
 
@@ -298,7 +304,7 @@ def generate_images(count=None, input_file=None):
             image_bytes = generate_image_gemini(client, prompt)
             with open(filepath, "wb") as f:
                 f.write(image_bytes)
-            pin["generated_image"] = rel_path
+            pin["generated_image"] = github_url   # URL Lovable can load
             pin["image_style"]     = style["name"]
             print("✓ image saved")
         except Exception as exc:
