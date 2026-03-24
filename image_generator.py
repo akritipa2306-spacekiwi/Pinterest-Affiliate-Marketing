@@ -243,9 +243,15 @@ def build_prompt(image_concept, style, has_product_image=False):
     """
     if has_product_image:
         base = (
-            "Feature ONLY the single product shown in the reference image. "
-            "Place it naturally in a styled small apartment home office setting. "
-            "Do not add any other large furniture pieces not in the reference image."
+            "Study the reference product image to understand the item's type, "
+            "shape, color, and design. Then create a completely original, "
+            "photorealistic Pinterest lifestyle home office scene — do NOT copy "
+            "or composite the product photo, instead depict a similar item "
+            "rendered naturally as if photographed in a real apartment. "
+            "The product is the hero of the scene; complement it with a few "
+            "tasteful accessories (lamp, plant, books, coffee cup) that suit "
+            "the setting. The overall mood and aesthetic should feel cohesive "
+            "and aspirational."
         )
     else:
         base = sanitize_image_concept(image_concept)
