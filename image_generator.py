@@ -235,15 +235,17 @@ def fetch_product_image(url):
 def build_prompt(image_concept, style, has_product_image=False):
     """
     Build the Gemini generation prompt.
-    When a product image is supplied as visual reference, the prompt
-    instructs Gemini to style that specific product into a lifestyle scene.
-    Otherwise falls back to the abstract image_concept description.
+    When a product image is supplied, ignore the abstract image_concept
+    entirely — the product photo already tells Gemini what the item is.
+    A clean prompt avoids Gemini hallucinating extra items (shelves, cabinets)
+    that appear in concept text but don't exist in the product.
+    Falls back to the sanitized image_concept when no product image is available.
     """
     if has_product_image:
-        concept = sanitize_image_concept(image_concept)
         base = (
-            "Using the product shown in the reference image as the hero item, "
-            f"create a Pinterest lifestyle home office scene. Context: {concept}"
+            "Feature ONLY the single product shown in the reference image. "
+            "Place it naturally in a styled small apartment home office setting. "
+            "Do not add any other large furniture pieces not in the reference image."
         )
     else:
         base = sanitize_image_concept(image_concept)
