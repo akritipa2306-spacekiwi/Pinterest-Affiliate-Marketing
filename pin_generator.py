@@ -63,7 +63,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DISCOVERY_FILE = os.path.join(BASE_DIR, "search_discovery_results.json")
 TRACKER_FILE = os.path.join(BASE_DIR, "pin_tracker.json")
 PINS_DIR = os.path.join(BASE_DIR, "generated_pins")
-DEFAULT_PIN_COUNT = 6
+DEFAULT_PIN_COUNT = 4
 
 # ════════════════════════════════════════════════════════════════════════════
 # TRACKER — load / save / query
