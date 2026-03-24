@@ -27,6 +27,8 @@ import re
 import sys
 from datetime import datetime, timezone
 
+import requests
+
 from google import genai
 from google.genai import types
 
@@ -213,22 +215,63 @@ def sanitize_image_concept(concept):
 
 
 # ════════════════════════════════════════════════════════════════════════════
-# GEMINI API HELPER
+# GEMINI API HELPERS
 # ════════════════════════════════════════════════════════════════════════════
 
-def build_prompt(image_concept, style):
-    clean_concept = sanitize_image_concept(image_concept)
-    return f"{clean_concept}, {style['descriptor']}, {PROMPT_SUFFIX}"
+def fetch_product_image(url):
+    """
+    Download an Amazon product image and return (bytes, mime_type).
+    Returns (None, None) on failure so callers can fall back gracefully.
+    """
+    try:
+        resp = requests.get(url, timeout=15)
+        resp.raise_for_status()
+        mime = resp.headers.get("Content-Type", "image/jpeg").split(";")[0]
+        return resp.content, mime
+    except Exception:
+        return None, None
 
 
-def generate_image_gemini(client, prompt):
+def build_prompt(image_concept, style, has_product_image=False):
+    """
+    Build the Gemini generation prompt.
+    When a product image is supplied as visual reference, the prompt
+    instructs Gemini to style that specific product into a lifestyle scene.
+    Otherwise falls back to the abstract image_concept description.
+    """
+    if has_product_image:
+        concept = sanitize_image_concept(image_concept)
+        base = (
+            "Using the product shown in the reference image as the hero item, "
+            f"create a Pinterest lifestyle home office scene. Context: {concept}"
+        )
+    else:
+        base = sanitize_image_concept(image_concept)
+
+    return f"{base}, {style['descriptor']}, {PROMPT_SUFFIX}"
+
+
+def generate_image_gemini(client, prompt, product_image_bytes=None,
+                          product_mime_type="image/jpeg"):
     """
     Call the Gemini image generation model and return raw image bytes.
-    Raises an exception if no image part is found in the response.
+    If product_image_bytes is provided, it is sent as a visual reference
+    so Gemini generates a lifestyle scene around the actual product.
     """
+    if product_image_bytes:
+        contents = [
+            types.Part(inline_data=types.Blob(
+                mime_type=product_mime_type,
+                data=product_image_bytes,
+            )),
+            types.Part(text=prompt),
+        ]
+    else:
+        contents = prompt
+
     response = client.models.generate_content(
         model=GEMINI_MODEL,
-        contents=prompt,
+        contents=contents,
         config=types.GenerateContentConfig(
             response_modalities=["IMAGE", "TEXT"]
         ),
@@ -346,8 +389,7 @@ def generate_images(count=None, input_file=None):
 
     for i, (pin, style) in enumerate(zip(pins_to_process, styles), 1):
         image_concept = pin.get("image_concept", "styled home office product photo")
-        prompt   = build_prompt(image_concept, style)
-        slug     = style["slug"]
+        slug       = style["slug"]
         filename   = f"{today}_pin_{i}_{slug}.png"
         filepath   = os.path.join(IMAGES_DIR, filename)
         github_url = f"{GITHUB_RAW_BASE}/generated_pins/images/{filename}"
@@ -355,22 +397,32 @@ def generate_images(count=None, input_file=None):
         print(f"  Pin {i}/{total} — style: {style['name']}", end=" — ", flush=True)
 
         pin = dict(pin)  # shallow copy so we don't mutate original
+
+        # Fetch the top Amazon product image to use as visual reference
+        products = pin.get("amazon_products", [])
+        product_img_bytes, product_mime = None, "image/jpeg"
+        if products and products[0].get("image_url"):
+            product_img_bytes, product_mime = fetch_product_image(
+                products[0]["image_url"]
+            )
+
+        prompt = build_prompt(
+            image_concept, style,
+            has_product_image=(product_img_bytes is not None)
+        )
+
         try:
-            image_bytes = generate_image_gemini(client, prompt)
+            image_bytes = generate_image_gemini(
+                client, prompt,
+                product_image_bytes=product_img_bytes,
+                product_mime_type=product_mime,
+            )
             with open(filepath, "wb") as f:
                 f.write(image_bytes)
-            pin["generated_image"] = github_url   # URL Lovable can load
+            pin["generated_image"] = github_url
             pin["image_style"]     = style["name"]
-
-            # Reorder products so the best visual match comes first
-            products = pin.get("amazon_products", [])
-            if products:
-                pin["amazon_products"] = rank_products_by_image(
-                    client, image_bytes, products
-                )
-                print("✓ image saved + products ranked")
-            else:
-                print("✓ image saved")
+            src = "product reference" if product_img_bytes else "concept only"
+            print(f"✓ image saved ({src})")
         except Exception as exc:
             print(f"✗ error: {exc}")
             pin["generated_image"] = None
