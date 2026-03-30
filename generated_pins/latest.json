@@ -1,122 +1,14 @@
 {
-  "generated_at": "2026-03-23T21:46:04.860705+00:00",
-  "date": "2026-03-23",
-  "total_pins": 3,
+  "generated_at": "2026-03-30T13:13:17.887388+00:00",
+  "date": "2026-03-30",
+  "total_pins": 6,
   "pins": [
     {
-      "query": "apartment office floating shelves",
-      "pin_title": "15 Genius Floating Shelves That Transform Tiny Apartment Offices (Under $100!)",
-      "pin_description": "Struggling with zero floor space in your apartment office? These floating shelves add storage WITHOUT stealing precious square footage. Perfect for renters—easy install, no damage! From minimalist wood to modern industrial styles. Tap the link to shop these space-saving heroes. #apartmentoffice #floatingshelves #smallspaceoffice #apartmentdecor #homeofficeideas #rentertips #spacesaving #deskorganization",
-      "board_name": "Small Space Home Office Ideas",
-      "image_concept": "Vertical collage showing 3-4 different floating shelf styles installed above compact desks in small apartments, with plants and office supplies neatly organized",
-      "source": "pinterest",
-      "intent": "commercial",
-      "affiliate_potential": 5,
-      "priority_score": 17.7,
-      "product_category": "shelf",
-      "amazon_products": [
-        {
-          "asin": "B0F18R8JJP",
-          "title": "Vivelove 12\" Deep Floating Shelves for Wall 36 Inches Long, 2 in Thick Wall Shelves, Shelf for Bedroom, Bathroom, Living Room, Kitchen, Office, Modern Home Decor, 36\" X 12\" X 2\", Set of 2, Black",
-          "price": "CAD 116.45",
-          "review_count": 233,
-          "image_url": "https://m.media-amazon.com/images/I/81dWXQKWL-L._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0F18R8JJP/"
-        },
-        {
-          "asin": "B0F8N6JJ7H",
-          "title": "Heimlove White Deep Floating Shelves for Wall, 36W x 8D Wood Wall Shelves Set of 2, Wide Floating Bookshelf for Living Room, Kitchen, Office, Bedroom and Decor Storage, with Black Bracket - White",
-          "price": "CAD 67.12",
-          "review_count": 70,
-          "image_url": "https://m.media-amazon.com/images/I/71SxmYHENmL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0F8N6JJ7H/"
-        },
-        {
-          "asin": "B0FSL2VF7G",
-          "title": "Deep Floating Shelves,16\"Wx10\"D Floating Shelves for Wall Set of 2,Heavy Duty Wood Floating Shelf with Metal Bracket,Wall Mounted Hanging Shelf for Living Room Bedroom Bathroom Kitchen,Rustic Brown",
-          "price": "CAD 34.51",
-          "review_count": 28,
-          "image_url": "https://m.media-amazon.com/images/I/81FgJX7I3tL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0FSL2VF7G/"
-        },
-        {
-          "asin": "B08VFKKV1D",
-          "title": "HIGH & MIGHTY 515662 Decorative 24\" Floating Shelf Holds up to 20lbs, Easy Tool-Free Dry Wall Installation, Beveled, eCommerce Packaging, Espresso",
-          "price": "CAD 66.32",
-          "review_count": 158,
-          "image_url": "https://m.media-amazon.com/images/I/61w0uvugCyL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B08VFKKV1D/"
-        },
-        {
-          "asin": "B0D128H4KJ",
-          "title": "upsimples Floating Shelves for Wall, Wall Shelves for Decor Storage Set of 6, Wall Mounted Wood Shelf for Bedroom, Living Room, Bathroom, Kitchen, Picture Ledge Shelf, Brown",
-          "price": "CAD 35.61",
-          "review_count": 3865,
-          "image_url": "https://m.media-amazon.com/images/I/81BU30IdovL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0D128H4KJ/"
-        }
-      ]
-    },
-    {
-      "query": "apartment office fold down desk",
-      "pin_title": "10 Best Fold-Down Desks for Apartments That Disappear When You Need Space",
-      "pin_description": "Your apartment is too small for a full desk? These wall-mounted fold-down desks are GAME-CHANGERS. Work comfortably, then fold it up and reclaim your living room. Sturdy enough for laptops + monitors, stylish enough for any decor. Find your perfect match at the link! #folddowndesk #apartmentoffice #spacesavingdesk #smallapartment #wallmounteddesk #tinyhomeoffice #multifunctionalfurniture #renterfriendly",
-      "board_name": "Apartment Desk Setup",
-      "image_concept": "Before/after split image showing a fold-down desk both open with laptop setup and closed flush against the wall in a small apartment living space",
-      "source": "pinterest",
-      "intent": "commercial",
-      "affiliate_potential": 5,
-      "priority_score": 17.7,
-      "product_category": "desk",
-      "amazon_products": [
-        {
-          "asin": "B0D29B51DD",
-          "title": "Folding Desk - 31.5\" Wood Top Foldable Desk for Small Spaces | No Assembly Required Compact Desk for Home Office, Writing, and Study",
-          "price": "CAD 95.90",
-          "review_count": 946,
-          "image_url": "https://m.media-amazon.com/images/I/71VcXKnLrvL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0D29B51DD/"
-        },
-        {
-          "asin": "B0FB3XLMYZ",
-          "title": "Folding Desk, 31.5\" Small Desk for Bedroom with Power Outlet, Space Saving Foldable Computer Desk for Home Office, Easy Assembly, White and Gold",
-          "price": "CAD 109.60",
-          "review_count": 14,
-          "image_url": "https://m.media-amazon.com/images/I/61f4k2ahhSL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0FB3XLMYZ/"
-        },
-        {
-          "asin": "B0DF2G3Q2G",
-          "title": "TEMI Small Computer Desk Folding Table - 35.8\" Foldable Office Desk, No Assembly, Perfect for Small Spaces in Bedroom, Dorm, or Apartment, Portable Mini Desk or Study Table with Compact Design, Brown",
-          "price": "CAD 68.45",
-          "review_count": 773,
-          "image_url": "https://m.media-amazon.com/images/I/71Mu1-DbHVL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0DF2G3Q2G/"
-        },
-        {
-          "asin": "B0DFCF98K9",
-          "title": "31.5\" Modern White Folding Computer Desk with Power Outlets, Wheels, Storage, Perfect for Small Spaces White TDN01UWB",
-          "price": "CAD 95.90",
-          "review_count": 77,
-          "image_url": "https://m.media-amazon.com/images/I/716ZFlOCb8L._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0DFCF98K9/"
-        },
-        {
-          "asin": "B0F43TL3GT",
-          "title": "Huuger Folding Desk for Small Spaces, 31.5 Inch Foldable Computer Table, for Home Office, Study, Bedroom, Dorm, Space Saving, Small Writing Work Office Computer Desk, Easy to Fold, Rustic Brown",
-          "price": "CAD 76.72",
-          "review_count": 471,
-          "image_url": "https://m.media-amazon.com/images/I/815LJYab8mL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0F43TL3GT/"
-        }
-      ]
-    },
-    {
-      "query": "apartment office affordable",
-      "pin_title": "Complete Apartment Office Under $300: Affordable Setup That Doesn't Look Cheap",
-      "pin_description": "You don't need to spend a fortune for a functional home office! This curated list proves you can create a stylish, productive workspace in your apartment for under $300. Desk, chair, storage, lighting—all budget-friendly picks that maximize small spaces. Tap to shop the full affordable setup! #affordablehomeoffice #budgetfriendly #apartmentoffice #cheapdesksetup #homeofficeonabudget #smallspaceoffice #budgetdecor #workfromhome",
-      "board_name": "Budget Home Office Ideas",
-      "image_concept": "Styled flat lay or grid showing complete affordable office setup including compact desk, ergonomic chair, desk lamp, and organizers with price tags visible",
+      "query": "apartment office ikea",
+      "pin_title": "15 IKEA Apartment Office Hacks That Transform Tiny Spaces Into Pro Workstations",
+      "pin_description": "Struggling to fit a functional office in your apartment? These IKEA pieces are genius space-savers that don't sacrifice style. From fold-down desks to vertical storage solutions, discover budget-friendly finds that maximize every inch. Tap the link to shop these apartment-approved office essentials! #apartmentoffice #ikeahacks #smallspaceoffice #homeofficeapartment #ikeaofficeideas #tinyoffice #apartmentwork #compactdesk",
+      "board_name": "IKEA Small Space Office Ideas",
+      "image_concept": "Styled apartment corner office using multiple IKEA products with labels pointing to each item and price tags visible",
       "source": "pinterest",
       "intent": "commercial",
       "affiliate_potential": 4,
@@ -124,44 +16,314 @@
       "product_category": "general office furniture",
       "amazon_products": [
         {
-          "asin": "B0D9YKTJ8K",
-          "title": "Lufeiya White L Shaped Computer Desk with Fabric Drawers, 55 Inch Corner Home Office Desk with Monitor Stand Shelves, Writing Study Gaming Desks with Led Lights and Power Outlets for Bedroom, White",
-          "price": "CAD 137.00",
-          "review_count": 916,
-          "image_url": "https://m.media-amazon.com/images/I/61Wh4yc5i3L._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0D9YKTJ8K/"
+          "asin": "B0BW8TGYK7",
+          "title": "IKEA",
+          "price": "CAD 101.41",
+          "review_count": 38,
+          "image_url": "https://m.media-amazon.com/images/I/41Cz7ZP8lFL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0BW8TGYK7/"
         },
         {
-          "asin": "B0DQKSVC1B",
-          "title": "DUMOS 32 Inch Office Small Computer Desk Modern Simple Style Writing Study Work Table for Home Bedroom - Wood Black",
-          "price": "CAD 27.35",
-          "review_count": 3539,
-          "image_url": "https://m.media-amazon.com/images/I/61cQhqxLVQL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0DQKSVC1B/"
+          "asin": "B0FVSHV595",
+          "title": "Bamboo Foldable Desk, Folding Desks for Small Spaces, Mid Century Small Computer Desk with Bookshelf for Bedroom Home Office, Black",
+          "price": "CAD 180.58",
+          "review_count": 84,
+          "image_url": "https://m.media-amazon.com/images/I/717+EJuK5QL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0FVSHV595/"
         },
         {
-          "asin": "B08Z36X6B4",
-          "title": "SUNMORY Floor Lamp with Shelves, Modern Square Standing Lamp with 3 Color Temperature Bulb, Corner Display Bookshelf Lamp for Living Room and Bedroom(Black)",
-          "price": "CAD 43.82",
-          "review_count": 6988,
-          "image_url": "https://m.media-amazon.com/images/I/71YNhyHG-IL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B08Z36X6B4/"
+          "asin": "B0F8J5JF9Q",
+          "title": "JSB",
+          "price": "CAD 105.56",
+          "review_count": 34,
+          "image_url": "https://m.media-amazon.com/images/I/71XkC-Yg65L._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0F8J5JF9Q/"
         },
         {
-          "asin": "B0DSPGMJKN",
-          "title": "Pamray 32 Inch Small Computer Desk with 2 Drawers for Bedroom Study Writing Home Office Table for Small Spaces Black",
-          "price": "CAD 63.01",
-          "review_count": 760,
-          "image_url": "https://m.media-amazon.com/images/I/71AQdfFKqyL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0DSPGMJKN/"
+          "asin": "B07PH3KD78",
+          "title": "IKEA",
+          "price": "CAD 32.63",
+          "review_count": 686,
+          "image_url": "https://m.media-amazon.com/images/I/41OPSlCqWtL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B07PH3KD78/"
+        },
+        {
+          "asin": "B0DPB3HLL1",
+          "title": "Lufeiya",
+          "price": "CAD 69.45",
+          "review_count": 1608,
+          "image_url": "https://m.media-amazon.com/images/I/713wnCIFs2L._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0DPB3HLL1/"
+        }
+      ]
+    },
+    {
+      "query": "small room desk setup ideas",
+      "pin_title": "10 Small Room Desk Setups That Prove You Don't Need Space to Be Productive",
+      "pin_description": "Think your room is too small for a proper desk? Think again! These genius setups fit into corners, closets, and under windows while keeping everything you need within reach. Get inspired by compact desks that actually work for real life. Find these space-saving desks at the link! #smallroomdesk #desksetup #compactdesk #smallspaceoffice #tinydesk #apartmentdesk #homeofficesetup #minimalistdesk",
+      "board_name": "Small Room Desk Setup Ideas",
+      "image_concept": "Before and after collage showing a cramped bedroom transformed with a sleek corner desk setup with laptop and plants",
+      "source": "google",
+      "intent": "mixed",
+      "affiliate_potential": 4,
+      "priority_score": 9.6,
+      "product_category": "desk",
+      "amazon_products": [
+        {
+          "asin": "B0DWMZTJBV",
+          "title": "Frylr Small Folding Computer Desk – Portable 35.8 Inch Foldable Laptop Table, No-Assembly, Collapsible and Compact for Easy Storage, Lightweight for Small Spaces, Craft and Study Use, Dark Walnut",
+          "price": "CAD 91.64",
+          "review_count": 1290,
+          "image_url": "https://m.media-amazon.com/images/I/6174mFlL4mL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0DWMZTJBV/"
+        },
+        {
+          "asin": "B0DZCGDXP9",
+          "title": "Bestier Computer Desk with Music Sync Light, Flow Vibe Corner Desk with Monitor Stand and PS5 Storage Shelves, Cup Holders, and Headset Hooks for Bedroom Small Space (Black Red, 42 Inch)",
+          "price": "CAD 118.76",
+          "review_count": 78,
+          "image_url": "https://m.media-amazon.com/images/I/81NbFTHhMoL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0DZCGDXP9/"
+        },
+        {
+          "asin": "B0DF2G3Q2G",
+          "title": "TEMI Small Computer Desk Folding Table - 35.8\" Foldable Office Desk, No Assembly, Perfect for Small Spaces in Bedroom, Dorm, or Apartment, Portable Mini Desk or Study Table with Compact Design, Brown",
+          "price": "CAD 69.39",
+          "review_count": 797,
+          "image_url": "https://m.media-amazon.com/images/I/71Mu1-DbHVL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0DF2G3Q2G/"
+        },
+        {
+          "asin": "B0BRMX3SWH",
+          "title": "MDOZQ Office Desk Accessories 2pcs Computer Monitor Memo Board Message Board Supplies for Women Men Sticky Note Holder Home Desktop Decor",
+          "price": "CAD 8.24",
+          "review_count": 5217,
+          "image_url": "https://m.media-amazon.com/images/I/61yjorGIhAL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0BRMX3SWH/"
+        },
+        {
+          "asin": "B0DR31GC3D",
+          "title": "Desk Shelves Desktop Organizer Shlef - White Office Organization for Top of Desk Organizers and Accessories Corner Bookshelf Table Top Shelving Small Hutch Decorations for Women Office",
+          "price": "CAD 36.01",
+          "review_count": 434,
+          "image_url": "https://m.media-amazon.com/images/I/71IbdAMZVjL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0DR31GC3D/"
+        }
+      ]
+    },
+    {
+      "query": "home office small apartment",
+      "pin_title": "12 Small Apartment Home Office Solutions That Actually Fit Your Life",
+      "pin_description": "No spare room? No problem! These clever home office solutions blend seamlessly into your apartment without taking over your living room. From wall-mounted desks to stylish room dividers, create a workspace that inspires productivity. Tap to shop these apartment-friendly office must-haves! #smallapartmentoffice #homeofficeapartment #compactoffice #apartmentworkspace #smallspaceliving #multifunctionalfurniture #apartmentideas #workfromhomeapartment",
+      "board_name": "Small Apartment Home Office Ideas",
+      "image_concept": "Split-screen image showing a living room with a discreet fold-away desk in open and closed positions",
+      "source": "google",
+      "intent": "mixed",
+      "affiliate_potential": 3,
+      "priority_score": 7.6,
+      "product_category": "general office furniture",
+      "amazon_products": [
+        {
+          "asin": "B0DXKRFFGM",
+          "title": "Dehumidifier, 95OZ Dehumidifier for Home 1000 Sq.Ft - Quiet with Auto Shut Off & Relaxing 7 Color Ambient Light,Ideal for Livingroom, Bedroom, Basement(Black)",
+          "price": "CAD 83.32",
+          "review_count": 3309,
+          "image_url": "https://m.media-amazon.com/images/I/61ISm4VDefL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0DXKRFFGM/"
+        },
+        {
+          "asin": "B0DS41FKHX",
+          "title": "Honeywell LED Desk Lamp for Home Office, Eye-Caring Light with 4 Color Modes & Touch Control, USB A+C Charging Ports, Adjustable Rotating Head with Timer for Reading, Bedroom & Small Desks",
+          "price": "CAD 40.74",
+          "review_count": 667,
+          "image_url": "https://m.media-amazon.com/images/I/61FQDzwNfsL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0DS41FKHX/"
+        },
+        {
+          "asin": "B0FJ1QHTYN",
+          "title": "Bamboo Folding Desk with Bookshelf, Compact Computer Desk for Small Spaces, Foldable Study Desk with Storage Shelf, Space-Saving Home Office Desk for Bedroom, Dorm, Apartment,Natural",
+          "price": "CAD 216.70",
+          "review_count": 68,
+          "image_url": "https://m.media-amazon.com/images/I/81-3pViRVLL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0FJ1QHTYN/"
+        },
+        {
+          "asin": "B0FHQ41L7V",
+          "title": "Metal Storage Cabinet with 2 Doors and Adjustable Shelf, Steel Sideboard Buffet Cabinet for Home Office Hallway Entryway Kitchen Living Dining Room (Black)",
+          "price": "CAD 166.69",
+          "review_count": 1,
+          "image_url": "https://m.media-amazon.com/images/I/517uOSg+RPL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0FHQ41L7V/"
+        },
+        {
+          "asin": "B0FRLWC6X9",
+          "title": "Candle Warmer Lamp with Timer Dimmer, Birthday Gifts for Mom Women Friend Sister, House Warming Gifts, Wax Melt Warmer, Office Apartment Dorm Room Home Decor",
+          "price": "CAD 20.82",
+          "review_count": 1224,
+          "image_url": "https://m.media-amazon.com/images/I/71DK1D8roLL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0FRLWC6X9/"
+        }
+      ]
+    },
+    {
+      "query": "home office studio apartment",
+      "pin_title": "Studio Apartment Home Office Ideas That Create Work Zones in 400 Square Feet",
+      "pin_description": "Living and working in a studio doesn't mean sacrificing productivity! These multi-functional office solutions let you separate work from relaxation without building walls. Discover compact desks, clever storage, and space-dividing tricks that work. Find these studio-approved pieces at the link in bio! #studioapartmentoffice #studioapartment #tinyhomeoffice #oneromofficeideas #compactworkspace #multifunctionalspace #smallspaceliving #studiolife",
+      "board_name": "Studio Apartment Home Office Ideas",
+      "image_concept": "Overhead flat lay showing a studio apartment floor plan with a highlighted office nook, featuring actual product images in position",
+      "source": "google",
+      "intent": "mixed",
+      "affiliate_potential": 3,
+      "priority_score": 7.6,
+      "product_category": "general office furniture",
+      "amazon_products": [
+        {
+          "asin": "B0F1XJPQ3H",
+          "title": "36Packs Curved Sound Proof Foam Panels for Walls, 2\" Acoustic Panels Sound Absorbing Dampening, Soundproofing Noise Reducing Cancelling Treatments for Home Office Recoding Studio Decor, 2x12x12\" Black",
+          "price": "CAD 43.05",
+          "review_count": 104,
+          "image_url": "https://m.media-amazon.com/images/I/71PI6zeqOZL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0F1XJPQ3H/"
+        },
+        {
+          "asin": "B0C2V7TFN5",
+          "title": "DECOLAB Room Divider Panel, Standing Privacy Partition Dividers for Office, Studio Apartment, Classroom, Home, Restaurant, Scratch Resistance, 29\"x65\", Iron",
+          "price": "CAD 153.49",
+          "review_count": 99,
+          "image_url": "https://m.media-amazon.com/images/I/71kL8emAx4L._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0C2V7TFN5/"
+        },
+        {
+          "asin": "B0F9XXWLJQ",
+          "title": "4Pack Fiberglass Acoustic Panels, Self Adhesive Sound Proof Foam Panels for Walls, Sound Dampening Panels for Studios, Office, Home Theater Soundproofing Absorbing Noise Reducing, 23.6x11.8x2.5\" Black",
+          "price": "CAD 91.67",
+          "review_count": 642,
+          "image_url": "https://m.media-amazon.com/images/I/61XSKELcygL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0F9XXWLJQ/"
         },
         {
           "asin": "B0F9X3FDYY",
           "title": "HUANUO 32\" Small Electric Standing Desk Adjustable Height, 4 Memory Height Settings, Sit Stand Up Desk for Home Office & Computer Workstation, LightWalnut",
-          "price": "CAD 109.59",
-          "review_count": 1737,
+          "price": "CAD 111.12",
+          "review_count": 1763,
           "image_url": "https://m.media-amazon.com/images/I/61U0DUlJOuL._AC_UL320_.jpg",
           "product_link": "https://www.amazon.com/dp/B0F9X3FDYY/"
+        },
+        {
+          "asin": "B0DMN89K2V",
+          "title": "DECOLAB Standing Room Divider, Space Privacy Partition, Portable Wall Panel for Studio Apartment, Office, Home, Classroom, Scratch Resistance, 29\"x65\", Aqua",
+          "price": "CAD 180.58",
+          "review_count": 99,
+          "image_url": "https://m.media-amazon.com/images/I/81J5e6n+aeL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0DMN89K2V/"
+        }
+      ]
+    },
+    {
+      "query": "home office small space",
+      "pin_title": "25 Small Space Home Office Ideas Designers Use to Maximize Every Inch",
+      "pin_description": "When space is limited, every piece has to work harder. These designer-approved home office ideas prove you can create a professional workspace anywhere—even in a hallway or closet! From vertical storage to floating desks, these smart solutions fit the smallest spaces. Shop these space-saving office essentials now! #smallspacehomeoffice #compactoffice #tinyoffice #spacesavingdesk #homeofficeorganization #smallspaceliving #efficientoffice #minimalistworkspace",
+      "board_name": "Small Space Home Office Ideas",
+      "image_concept": "Collage of four different small-space office setups (closet office, corner desk, wall-mounted workspace, and nook) with measurement callouts",
+      "source": "google",
+      "intent": "mixed",
+      "affiliate_potential": 3,
+      "priority_score": 7.6,
+      "product_category": "general office furniture",
+      "amazon_products": [
+        {
+          "asin": "B0D264HK9K",
+          "title": "Folding Desk - 31.5\" Wood Top Foldable Desk for Small Spaces | No Assembly Required Compact Desk for Home Office, Writing, and Study",
+          "price": "CAD 97.23",
+          "review_count": 963,
+          "image_url": "https://m.media-amazon.com/images/I/71wORL0YSBL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0D264HK9K/"
+        },
+        {
+          "asin": "B0CM66KTHP",
+          "title": "DlandHome 31.5 inches Small Computer Desk for Home Office Activity Table Writing Table for Small Spaces Study Table Student Laptop Desk Teak and White DND-AC3TW-8040,Teak + White",
+          "price": "CAD 77.78",
+          "review_count": 3455,
+          "image_url": "https://m.media-amazon.com/images/I/616RGyeCj9L._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0CM66KTHP/"
+        },
+        {
+          "asin": "B0B5WV14FF",
+          "title": "DlandHome Folding Desk Small Desk 31.5 inches Computer Desk for Home Office Folding Table Writing Table for Small Spaces No Assembly Required Teak & White Frame",
+          "price": "CAD 94.45",
+          "review_count": 1848,
+          "image_url": "https://m.media-amazon.com/images/I/71PwtCzgTuL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0B5WV14FF/"
+        },
+        {
+          "asin": "B0BN54YRKR",
+          "title": "Elephance Folding Desk Writing Computer Desk for Home Office, No-Assembly Study Office Desk Foldable Table for Small Spaces",
+          "price": "CAD 92.37",
+          "review_count": 3487,
+          "image_url": "https://m.media-amazon.com/images/I/71WBJT0Y0bL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0BN54YRKR/"
+        },
+        {
+          "asin": "B0F43TL3GT",
+          "title": "Huuger Folding Desk for Small Spaces, 31.5 Inch Foldable Computer Table, for Home Office, Study, Bedroom, Dorm, Space Saving, Small Writing Work Office Computer Desk, Easy to Fold, Rustic Brown",
+          "price": "CAD 77.78",
+          "review_count": 481,
+          "image_url": "https://m.media-amazon.com/images/I/815LJYab8mL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0F43TL3GT/"
+        }
+      ]
+    },
+    {
+      "query": "home office small room",
+      "pin_title": "Game-Changing Small Room Home Office Setups That Double Your Productivity",
+      "pin_description": "Working from a small room shouldn't feel cramped or chaotic! These office layouts maximize productivity while keeping clutter at bay. Discover desks with built-in storage, ergonomic solutions, and lighting tricks that make tiny rooms feel spacious. Tap the link to shop these small-room office winners! #smallroomoffice #homeofficesmalroom #compactofficeideas #bedroomoffice #tinyworkspace #productiveoffice #smallspacedesk #spacesavingoffice",
+      "board_name": "Small Room Home Office Setup",
+      "image_concept": "Side-by-side comparison of a cluttered small room office versus an organized, functional setup with the same square footage",
+      "source": "google",
+      "intent": "mixed",
+      "affiliate_potential": 3,
+      "priority_score": 7.6,
+      "product_category": "general office furniture",
+      "amazon_products": [
+        {
+          "asin": "B0GDK6T7CR",
+          "title": "PuroAir Air Purifier 100i Smart HEPA Air Purifiers for Home Pets - Portable Small Air Purifier Filters up to 550 Ft² of Pollutants, Smoke, Pollen, Dust - Room Air Purifiers for Bedroom, Baby, Office",
+          "price": "CAD 88.55",
+          "review_count": 78,
+          "image_url": "https://m.media-amazon.com/images/I/71GPBnLqbzL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0GDK6T7CR/"
+        },
+        {
+          "asin": "B0D29B51DD",
+          "title": "Folding Desk - 31.5\" Wood Top Foldable Desk for Small Spaces | No Assembly Required Compact Desk for Home Office, Writing, and Study",
+          "price": "CAD 97.23",
+          "review_count": 963,
+          "image_url": "https://m.media-amazon.com/images/I/71VcXKnLrvL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0D29B51DD/"
+        },
+        {
+          "asin": "B0DS41FKHX",
+          "title": "Honeywell LED Desk Lamp for Home Office, Eye-Caring Light with 4 Color Modes & Touch Control, USB A+C Charging Ports, Adjustable Rotating Head with Timer for Reading, Bedroom & Small Desks",
+          "price": "CAD 40.74",
+          "review_count": 667,
+          "image_url": "https://m.media-amazon.com/images/I/61FQDzwNfsL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0DS41FKHX/"
+        },
+        {
+          "asin": "B0G2Y777XW",
+          "title": "42'' Flush Mount Ceiling Fan with Light, Small Black Low Profile Ceiling Fan for Kids Room & Home Office, Quiet DC Motor, Space-Saving Modern Fan with App/Remote Control",
+          "price": "CAD 125.01",
+          "review_count": 58,
+          "image_url": "https://m.media-amazon.com/images/I/71wK9F3icQL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0G2Y777XW/"
+        },
+        {
+          "asin": "B0G5XT3J14",
+          "title": "LED Desk Lamp with Power Strip, 3 AC Outlets & 4 USB Ports (2 USB-C), Stepless Dimming & 2800K-6500K Eye-Caring Desk Light, Foldable Table Lamp with 5FT Cord for Home Office, Dorm Room Essentials",
+          "price": "CAD 24.98",
+          "review_count": 12,
+          "image_url": "https://m.media-amazon.com/images/I/71dau9RTrSL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0G5XT3J14/"
         }
       ]
     }
