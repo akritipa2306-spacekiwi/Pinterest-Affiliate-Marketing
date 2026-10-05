@@ -1,232 +1,64 @@
 {
-  "generated_at": "2026-07-06T17:52:26.390116+00:00",
-  "date": "2026-07-06",
-  "total_pins": 4,
+  "generated_at": "2026-10-05T17:42:04.877049+00:00",
+  "date": "2026-10-05",
+  "total_pins": 1,
   "pins": [
     {
-      "query": "home office small space desk",
-      "pin_title": "15 Space-Saving Desks That Transform Tiny Apartments Into Productive Workspaces",
-      "pin_description": "Struggling to fit a desk in your small apartment? These genius compact desks fold, mount, or tuck away when you need your space back. From wall-mounted drop-leafs to corner desks under 30 inches, find the perfect fit for your WFH setup. Tap the link to shop these space-saving solutions! #SmallSpaceDesk #ApartmentOffice #CompactDesk #SpaceSavingFurniture #TinyHomeOffice #ApartmentHacks #WFHSetup #SmallSpaceLiving",
-      "board_name": "Small Space Home Office Ideas",
-      "image_concept": "Collage showing 4-5 different compact desk styles (wall-mounted, corner, folding) in styled small apartment settings with measurements overlay",
+      "query": "small room gaming desk setup",
+      "pin_title": "7 Space-Saving Gaming Desks Perfect for Tiny Rooms (Under 40 Inches!)",
+      "pin_description": "Tired of choosing between your gaming setup and having floor space? These compact gaming desks fit small rooms WITHOUT sacrificing monitor space or cable management. From corner L-shapes to wall-mounted fold-downs, each one maximizes your square footage. Tap the link to shop these game-changing desks! #smallroomgaming #gamingdesksetup #compactgamingdesk #smallspacegaming #apartmentgaming #tinyroomsetup #gamingsetupideas #spacesavingdesk",
+      "board_name": "Small Space Gaming Setups",
+      "image_concept": "Split-screen showing a cramped gaming setup before and a sleek compact gaming desk setup after, with RGB lighting and dual monitors in a small bedroom",
       "source": "google",
       "intent": "commercial",
-      "affiliate_potential": 5,
-      "priority_score": 17.7,
+      "affiliate_potential": 4,
+      "priority_score": 14.7,
       "product_category": "desk",
       "amazon_products": [
         {
-          "asin": "B07FKWLWXG",
-          "title": "Furinno EFFICIENT Desk, 28.6\" Wide Gaming Desk with 3 Open Side Shelves, Laptop Notebook Computer Desk, Office Desk for Home Office, Study Room, Dorm, Bedroom, Columbia Walnut",
-          "price": "CAD 39.62",
-          "review_count": 49996,
-          "image_url": "https://m.media-amazon.com/images/I/71aLKszko6L._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B07FKWLWXG/"
+          "asin": "B0FWR7NKZF",
+          "title": "X-cosrack 33.5\" Small Gaming Desk with LED Lights & Power Outlets, Compact Computer Desk with Monitor Stand & CPU Stand, Gamer Table with Storage Drawer, Side Hooks for Home Office, Bedroom, Black",
+          "price": "CAD 99.76",
+          "review_count": 216,
+          "image_url": "https://m.media-amazon.com/images/I/71kxVFc5QBL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0FWR7NKZF/"
         },
         {
-          "asin": "B0D29B51DD",
-          "title": "alawooder Folding Desk - 31.5\" Wood Top Foldable Desk for Small Spaces | No Assembly Required Compact Desk for Home Office, Writing, and Study",
-          "price": "CAD 99.65",
-          "review_count": 1190,
-          "image_url": "https://m.media-amazon.com/images/I/71VcXKnLrvL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0D29B51DD/"
-        },
-        {
-          "asin": "B07HH89LHG",
-          "title": "Furinno TURN-N-TUBE Desk, Gaming Desk with Shelves, Corner Computer Desk with Shelves, Office Desk, Space Saving, For Home Office, Bedroom, Espresso",
+          "asin": "B0DX6PLLFM",
+          "title": "ODK 53\" L Shaped Gaming Desk with Shelves, LED & Outlets, Black",
           "price": "See Amazon",
-          "review_count": 2903,
-          "image_url": "https://m.media-amazon.com/images/I/61rZNhOhCsL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B07HH89LHG/"
+          "review_count": 1033,
+          "image_url": "https://m.media-amazon.com/images/I/81fJ6AvNEkL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0DX6PLLFM/"
         },
         {
-          "asin": "B0DP65X4JD",
-          "title": "DLisiting Small White L Shaped Desk with Drawers & Storage Shelves, 40 Inch Corner Desk with Power Outlet for Small Space Home Office, Study Work PC Desks for Bedroom",
-          "price": "CAD 135.24",
-          "review_count": 360,
-          "image_url": "https://m.media-amazon.com/images/I/61rCdMfYQBL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0DP65X4JD/"
+          "asin": "B0FJ1NYG71",
+          "title": "Korfile 48\" Gaming Desk with Power Outlet, LED, Carbon Fiber Black Finish",
+          "price": "See Amazon",
+          "review_count": 440,
+          "image_url": "https://m.media-amazon.com/images/I/81dlS2zLEWL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0FJ1NYG71/"
         },
         {
-          "asin": "B0F9X3FDYY",
-          "title": "HUANUO 32\" Small Electric Standing Desk Adjustable Height, 4 Memory Height Settings, Sit Stand Up Desk for Home Office & Computer Workstation, LightWalnut",
-          "price": "CAD 108.19",
-          "review_count": 2156,
-          "image_url": "https://m.media-amazon.com/images/I/61ABU8EwDcL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0F9X3FDYY/"
+          "asin": "B0FVLD1MYL",
+          "title": "33.7 Inch Small Gaming Desk Table with LED Lights & Power Outlets, Compact L Shaped Gaming Computer Desk with CPU Stand, Drawer & Storage, Corner PC Desk for Kids, Home Office , Bedroom, Black",
+          "price": "CAD 95.49",
+          "review_count": 193,
+          "image_url": "https://m.media-amazon.com/images/I/71fjIWP3gtL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0FVLD1MYL/"
+        },
+        {
+          "asin": "B0D3T4J7CF",
+          "title": "Korfile 47 Inch Gaming Computer Desk with Power Outlets,LED,5 Drawers,Black",
+          "price": "See Amazon",
+          "review_count": 1199,
+          "image_url": "https://m.media-amazon.com/images/I/81QjtZoJVHL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0D3T4J7CF/"
         }
       ],
-      "generated_image": null,
-      "image_style": "dark academia"
-    },
-    {
-      "query": "apartment office ideas",
-      "pin_title": "10 Genius Apartment Office Ideas That Don't Require a Spare Room",
-      "pin_description": "No extra bedroom? No problem! These clever apartment office setups prove you can create a productive workspace anywhere—closets, corners, even your living room. Get inspired by real small-space solutions featuring multi-functional furniture and smart storage. See all the ideas and shop the pieces at the link! #ApartmentOffice #SmallOfficeIdeas #HomeOfficeInspo #RenterFriendly #StudioApartment #WorkFromHomeSetup #ApartmentDecor #CompactWorkspace",
-      "board_name": "Apartment Office & Desk Setup",
-      "image_concept": "Before/after split image showing a blank apartment corner transformed into a stylish, functional mini office with desk, shelving, and chair",
-      "source": "pinterest",
-      "intent": "mixed",
-      "affiliate_potential": 3,
-      "priority_score": 7.6,
-      "product_category": "general office furniture",
-      "amazon_products": [
-        {
-          "asin": "B01MRMA5HB",
-          "title": "KINGFOM 5PCS Desk Organizer and Accessories Set, Pu Leather Office Supplies with Multifunction Desktop Organizer Storage Box, Tissue Holder, Mouse Pad, Note Paper Holder, Pencil Holder for Desk Black",
-          "price": "CAD 88.26",
-          "review_count": 69,
-          "image_url": "https://m.media-amazon.com/images/I/71NAc2c+8ML._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B01MRMA5HB/"
-        },
-        {
-          "asin": "B0FDH2JKK6",
-          "title": "Cutluxe Magnetic Knife Holder for Wall and Fridge - 16\" Stainless Steel Knife Magnetic Strip - Holds up to 15 Lbs, Easy to Mount, With Strong Magnets or Screws",
-          "price": "CAD 25.61",
-          "review_count": 206,
-          "image_url": "https://m.media-amazon.com/images/I/71mA6b-AjYL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0FDH2JKK6/"
-        },
-        {
-          "asin": "B09N3GPS3Y",
-          "title": "VLANDO Office Desk Organizer Leather Desktop Organizer Caddy with Drawer for Storing Desktop Supplies and Accessories (Grey Set)",
-          "price": "CAD 51.24",
-          "review_count": 291,
-          "image_url": "https://m.media-amazon.com/images/I/71DwSlwkgfL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B09N3GPS3Y/"
-        },
-        {
-          "asin": "B07K968H2M",
-          "title": "Furinno Rossi Wall Mounted Shelves, 5-Tier Rectangle, French Oak Grey/Black",
-          "price": "CAD 33.07",
-          "review_count": 2679,
-          "image_url": "https://m.media-amazon.com/images/I/61Fa3HboGLL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B07K968H2M/"
-        },
-        {
-          "asin": "B0BRMX3SWH",
-          "title": "MDOZQ Office Desk Accessories 2pcs Computer Monitor Memo Board Message Board Supplies for Women Men Sticky Note Holder Home Desktop Decor",
-          "price": "CAD 9.94",
-          "review_count": 5732,
-          "image_url": "https://m.media-amazon.com/images/I/61yjorGIhAL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0BRMX3SWH/"
-        }
-      ],
-      "generated_image": "https://raw.githubusercontent.com/akritipa2306-spacekiwi/Pinterest-Affiliate-Marketing/main/generated_pins/images/2026-09-21_pin_2_midcentury.png",
-      "image_style": "mid-century inspired"
-    },
-    {
-      "query": "apartment office diy",
-      "pin_title": "7 DIY Apartment Office Projects You Can Build This Weekend (Under $100!)",
-      "pin_description": "Tight budget? These DIY office projects are renter-friendly and crazy affordable. Build a floating desk with shelves, create a pegboard organizer, or transform an IKEA bookcase into a desk hutch. Each project includes supply lists and step-by-step tips. Find the tutorials and shop recommended tools at the link! #DIYHomeOffice #ApartmentDIY #RenterFriendlyDIY #BudgetOffice #IKEAHack #DIYDesk #SmallSpaceStorage #ApartmentProjects",
-      "board_name": "DIY Home Office Ideas",
-      "image_concept": "Flat lay of DIY supplies (wood boards, brackets, tools) next to a finished floating desk installation with plants and laptop styled on top",
-      "source": "pinterest",
-      "intent": "informational",
-      "affiliate_potential": 2,
-      "priority_score": 2.32,
-      "product_category": "none",
-      "amazon_products": [
-        {
-          "asin": "B0DHGCT946",
-          "title": "20 Pcs Basic Tool Kit, Compact Home Tool Set with Mini Tool Box, Ideal for Household Repairs, Office Maintenance, Simple DIY, General Tools User-friendly for Beginners, Women & Student(Yellow)",
-          "price": "CAD 28.46",
-          "review_count": 227,
-          "image_url": "https://m.media-amazon.com/images/I/7180v9UP8AL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0DHGCT946/"
-        },
-        {
-          "asin": "B0D8TBGXCC",
-          "title": "COMOWARE Pink Household Tool Set with 12V Cordless Drill Driver, Hand Tool Kit for Women, Power Drill Set with Plastic Toolbox, Ideal for Office, Garden, DIY Project",
-          "price": "CAD 71.17",
-          "review_count": 79,
-          "image_url": "https://m.media-amazon.com/images/I/71hJCe5C-qL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0D8TBGXCC/"
-        },
-        {
-          "asin": "B0D62MWTD9",
-          "title": "24pcs Home DIY Tool Kit for Household, Office & Garage - General Repair Small Hand Tool Set with Storage Case",
-          "price": "CAD 32.73",
-          "review_count": 101,
-          "image_url": "https://m.media-amazon.com/images/I/71yPL14NYnL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0D62MWTD9/"
-        },
-        {
-          "asin": "B0DQ87YRBL",
-          "title": "Hi-Spec Small Tool Kit Compact Set for Home and Office DIY, 25-Piece Green Mini Tool Box for Basic Household Repairs, Starter Toolkit in a Portable Toolbox Case.",
-          "price": "CAD 28.46",
-          "review_count": 970,
-          "image_url": "https://m.media-amazon.com/images/I/81flMzVGF4L._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0DQ87YRBL/"
-        },
-        {
-          "asin": "B0GBYDD6QR",
-          "title": "Sundpey Home Tool Kit with Drill - 166-Piece General Basic Home Repair Tool Set with 12V Cordless Power Drill & Battery & Charger & Portable Tool Box for Garden Office House Apartment Repair Men Women",
-          "price": "CAD 56.94",
-          "review_count": 162,
-          "image_url": "https://m.media-amazon.com/images/I/71WB3dilIAL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0GBYDD6QR/"
-        }
-      ],
-      "generated_image": "https://raw.githubusercontent.com/akritipa2306-spacekiwi/Pinterest-Affiliate-Marketing/main/generated_pins/images/2026-09-21_pin_3_cyberpunk.png",
-      "image_style": "cyberpunk / techno"
-    },
-    {
-      "query": "home office small room design",
-      "pin_title": "Small Room Home Office Design: 12 Layouts That Maximize Every Inch",
-      "pin_description": "Designing a home office in a small room? These 12 layouts show you exactly how to arrange furniture for maximum productivity and storage. Learn vertical space tricks, dual-purpose furniture picks, and color schemes that make tiny rooms feel bigger. Get the full design guide and shop featured furniture at the link! #SmallOfficeDesign #HomeOfficeMakeover #SmallRoomIdeas #OfficeLayout #CompactOffice #WorkspaceDesign #SmallSpaceDecor #ProductiveWorkspace",
-      "board_name": "Small Space Home Office Ideas",
-      "image_concept": "Overhead floor plan diagram of a small room showing 3 different desk placement options with furniture labels and dimension notes",
-      "source": "google",
-      "intent": "informational",
-      "affiliate_potential": 2,
-      "priority_score": 2.16,
-      "product_category": "general office furniture",
-      "amazon_products": [
-        {
-          "asin": "B0G6BH4BBX",
-          "title": "Solid Wood Desk with Drawers, Home Office Desk for Small Spaces, Gaming Work Study Desk, Student PC Desk for Bedroom, Easy to Assemble (Wood Color, 31.5 inch)",
-          "price": "CAD 226.36",
-          "review_count": 41,
-          "image_url": "https://m.media-amazon.com/images/I/61RTSrqUoJL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0G6BH4BBX/"
-        },
-        {
-          "asin": "B0BZVGQMVH",
-          "title": "VEDECASA Corner Printer Stand Table with Power Outlet Charging Plugs USB Port Adjustable Storage Shelf Computer Tower CPU Stand Holder for Home Office (Black)",
-          "price": "CAD 142.22",
-          "review_count": 102,
-          "image_url": "https://m.media-amazon.com/images/I/71q6qfqCSnL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0BZVGQMVH/"
-        },
-        {
-          "asin": "B074NHF14D",
-          "title": "Furinno LUDER Book Shelf, 5-Tier Bookshelf, Bookcase with Open Shelves, 9.4 x 15.8 x 52, Easy Assembly, for Living Room, Bedroom, Home Office, White/Pink",
-          "price": "CAD 68.33",
-          "review_count": 102077,
-          "image_url": "https://m.media-amazon.com/images/I/71f5ZnCsYIL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B074NHF14D/"
-        },
-        {
-          "asin": "B0CYVZFWJ7",
-          "title": "Branch Daily Desk - Functional at Home Office Desk with Effortless Assembly, Timeless Design, Rounded Corners, and Built-in Cable Notch - 36” W x 28.5” H x 24” D - Woodgrain Work Table",
-          "price": "CAD 468.42",
-          "review_count": 54,
-          "image_url": "https://m.media-amazon.com/images/I/61DbJoNNI9L._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0CYVZFWJ7/"
-        },
-        {
-          "asin": "B0D26F6FNN",
-          "title": "UTTCMK Bookshelf Decor Thinker Statue - Abstract Art Reading Thinker Sculpture Figurine Aesthetic, Modern Home Decoration for Living Room Office Shelves Coffee Table Desk Decor(Beige)",
-          "price": "CAD 22.65",
-          "review_count": 969,
-          "image_url": "https://m.media-amazon.com/images/I/61OVQe73t1L._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0D26F6FNN/"
-        }
-      ],
-      "generated_image": null,
-      "image_style": "boho eclectic"
+      "generated_image": "https://raw.githubusercontent.com/akritipa2306-spacekiwi/Pinterest-Affiliate-Marketing/main/generated_pins/images/2026-10-05_pin_1_japandi.png",
+      "image_style": "japandi"
     }
   ],
-  "images_generated_at": "2026-09-21T21:15:14.031885+00:00"
+  "images_generated_at": "2026-10-05T17:42:20.514880+00:00"
 }
