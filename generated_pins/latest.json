@@ -1,59 +1,113 @@
 {
-  "generated_at": "2026-10-05T17:42:04.877049+00:00",
-  "date": "2026-10-05",
-  "total_pins": 1,
+  "generated_at": "2026-11-09T17:57:57.020163+00:00",
+  "date": "2026-11-09",
+  "total_pins": 2,
   "pins": [
     {
-      "query": "small room gaming desk setup",
-      "pin_title": "7 Space-Saving Gaming Desks Perfect for Tiny Rooms (Under 40 Inches!)",
-      "pin_description": "Tired of choosing between your gaming setup and having floor space? These compact gaming desks fit small rooms WITHOUT sacrificing monitor space or cable management. From corner L-shapes to wall-mounted fold-downs, each one maximizes your square footage. Tap the link to shop these game-changing desks! #smallroomgaming #gamingdesksetup #compactgamingdesk #smallspacegaming #apartmentgaming #tinyroomsetup #gamingsetupideas #spacesavingdesk",
-      "board_name": "Small Space Gaming Setups",
-      "image_concept": "Split-screen showing a cramped gaming setup before and a sleek compact gaming desk setup after, with RGB lighting and dual monitors in a small bedroom",
+      "query": "small space computer desk setup",
+      "pin_title": "10 Space-Saving Computer Desks That Actually Fit in Tiny Apartments (Under 30 Inches!)",
+      "pin_description": "Tired of your laptop taking over your kitchen table? These compact computer desks transform even the smallest corner into a productive workspace. From wall-mounted fold-downs to sleek corner designs, each one maximizes storage without eating up floor space. Perfect for studio apartments and tight home offices. Tap the link to shop these game-changing desks! #SmallSpaceDesk #ApartmentHomeOffice #CompactDesk #TinyApartment #SpaceSavingFurniture #HomeOfficeIdeas #SmallDeskSetup #StudioApartment",
+      "board_name": "Small Space Home Office Ideas",
+      "image_concept": "A styled flat lay showing a compact white computer desk in a small corner with a laptop, small plant, and organized accessories demonstrating efficient space usage.",
       "source": "google",
       "intent": "commercial",
-      "affiliate_potential": 4,
-      "priority_score": 14.7,
+      "affiliate_potential": 5,
+      "priority_score": 17.7,
       "product_category": "desk",
       "amazon_products": [
         {
-          "asin": "B0FWR7NKZF",
-          "title": "X-cosrack 33.5\" Small Gaming Desk with LED Lights & Power Outlets, Compact Computer Desk with Monitor Stand & CPU Stand, Gamer Table with Storage Drawer, Side Hooks for Home Office, Bedroom, Black",
-          "price": "CAD 99.76",
-          "review_count": 216,
-          "image_url": "https://m.media-amazon.com/images/I/71kxVFc5QBL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0FWR7NKZF/"
+          "asin": "B0DPGBTTTZ",
+          "title": "FiCiHi 24 Inch Small Electric Standing Desk, Adjustable Mobile Laptop Desk",
+          "price": "CAD 139.58",
+          "review_count": 95,
+          "image_url": "https://m.media-amazon.com/images/I/61DoACfWBLL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0DPGBTTTZ/"
         },
         {
-          "asin": "B0DX6PLLFM",
-          "title": "ODK 53\" L Shaped Gaming Desk with Shelves, LED & Outlets, Black",
+          "asin": "B0HB5WN31J",
+          "title": "41.5\" Small Gaming Desk with Power Outlet, Monitor Stand, LED Light, Black",
+          "price": "CAD 98.69",
+          "review_count": 5,
+          "image_url": "https://m.media-amazon.com/images/I/71ZtQgU+8iL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0HB5WN31J/"
+        },
+        {
+          "asin": "B0F66KXN58",
+          "title": "Casaottima 48 Inch Gaming Desk with LED Lights & Drawer, CPU Stand, Black",
+          "price": "CAD 126.89",
+          "review_count": 423,
+          "image_url": "https://m.media-amazon.com/images/I/71H1Fj7DbSL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0F66KXN58/"
+        },
+        {
+          "asin": "B092CTD3XR",
+          "title": "Furinno EFFICIENT Desk, 28.6\" Wide Gaming Desk with 3 Open Side Shelves, Laptop Notebook Computer Desk, Office Desk for Home Office, Study Room, Dorm, Bedroom, Dark Espresso",
+          "price": "CAD 32.12",
+          "review_count": 42501,
+          "image_url": "https://m.media-amazon.com/images/I/713bYzdT2IL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B092CTD3XR/"
+        },
+        {
+          "asin": "B0H2XFR5KP",
+          "title": "Furinno Simplistic 31-Inch Compact Computer Desk, Black Espresso",
+          "price": "CAD 24.87",
+          "review_count": 33516,
+          "image_url": "https://m.media-amazon.com/images/I/71AQVjNRbUL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0H2XFR5KP/"
+        }
+      ]
+    },
+    {
+      "query": "home office setup small apartment",
+      "pin_title": "Complete Small Apartment Home Office Setup: 15 Must-Have Products Under $200",
+      "pin_description": "Working from a cramped apartment? This complete home office setup proves you don't need a dedicated room to be productive. Discover the exact desk, chair, storage solutions, and lighting that turn any corner into a functional workspace. Every piece is chosen for small spaces—no wasted inches! These budget-friendly picks have transformed hundreds of tiny apartments. Find the full setup at the link! #SmallApartmentOffice #HomeOfficeSetup #ApartmentWorkspace #CompactOffice #WFHSetup #TinyHomeOffice #BudgetOffice #SmallSpaceSolutions",
+      "board_name": "Apartment Home Office Setup",
+      "image_concept": "A product collage featuring a complete home office setup including a compact desk, ergonomic chair, floating shelves, task lamp, and desk organizers arranged to show a cohesive small-space solution.",
+      "source": "google",
+      "intent": "commercial",
+      "affiliate_potential": 4,
+      "priority_score": 14.4,
+      "product_category": "general office furniture",
+      "amazon_products": [
+        {
+          "asin": "B0DPGBTTTZ",
+          "title": "FiCiHi 24 Inch Small Electric Standing Desk, Adjustable Mobile Laptop Desk",
+          "price": "CAD 139.58",
+          "review_count": 95,
+          "image_url": "https://m.media-amazon.com/images/I/61DoACfWBLL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0DPGBTTTZ/"
+        },
+        {
+          "asin": "B0H2XFR5KP",
+          "title": "Furinno Simplistic 31-Inch Compact Computer Desk, Black Espresso",
+          "price": "CAD 24.87",
+          "review_count": 33516,
+          "image_url": "https://m.media-amazon.com/images/I/71AQVjNRbUL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0H2XFR5KP/"
+        },
+        {
+          "asin": "B0H4Q6B27W",
+          "title": "Folding Desk Foldable Table, No Assembly 35.8\" Foldable Desk Space-Saving Workstation for Small Space, Computer Table, Flat Storage for Home Office, Bedroom, Dorm, Study Room, Light Maple",
+          "price": "CAD 70.47",
+          "review_count": 67,
+          "image_url": "https://m.media-amazon.com/images/I/61cWHkDywNL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0H4Q6B27W/"
+        },
+        {
+          "asin": "B0FJS2CK48",
+          "title": "Pamray 32 Inch Small Computer Desk with Shelves for Bedroom Small Spaces",
+          "price": "CAD 62.03",
+          "review_count": 363,
+          "image_url": "https://m.media-amazon.com/images/I/71zJu5cMgAL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0FJS2CK48/"
+        },
+        {
+          "asin": "B0GWZPBBXB",
+          "title": "Korfile 55\" Computer Desk with File Drawer, Printer Space, Rustic Brown",
           "price": "See Amazon",
-          "review_count": 1033,
-          "image_url": "https://m.media-amazon.com/images/I/81fJ6AvNEkL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0DX6PLLFM/"
-        },
-        {
-          "asin": "B0FJ1NYG71",
-          "title": "Korfile 48\" Gaming Desk with Power Outlet, LED, Carbon Fiber Black Finish",
-          "price": "See Amazon",
-          "review_count": 440,
-          "image_url": "https://m.media-amazon.com/images/I/81dlS2zLEWL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0FJ1NYG71/"
-        },
-        {
-          "asin": "B0FVLD1MYL",
-          "title": "33.7 Inch Small Gaming Desk Table with LED Lights & Power Outlets, Compact L Shaped Gaming Computer Desk with CPU Stand, Drawer & Storage, Corner PC Desk for Kids, Home Office , Bedroom, Black",
-          "price": "CAD 95.49",
-          "review_count": 193,
-          "image_url": "https://m.media-amazon.com/images/I/71fjIWP3gtL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0FVLD1MYL/"
-        },
-        {
-          "asin": "B0D3T4J7CF",
-          "title": "Korfile 47 Inch Gaming Computer Desk with Power Outlets,LED,5 Drawers,Black",
-          "price": "See Amazon",
-          "review_count": 1199,
-          "image_url": "https://m.media-amazon.com/images/I/81QjtZoJVHL._AC_UL320_.jpg",
-          "product_link": "https://www.amazon.com/dp/B0D3T4J7CF/"
+          "review_count": 58,
+          "image_url": "https://m.media-amazon.com/images/I/91DFA6noIvL._AC_UL320_.jpg",
+          "product_link": "https://www.amazon.com/dp/B0GWZPBBXB/"
         }
       ]
     }
